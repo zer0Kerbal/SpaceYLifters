@@ -1,3 +1,7 @@
+1.9 (2016-02-18) - Paint!
+ - Added additional striped paint scheme to 5m tanks.
+ - Switched the Color-Changing config to turn off alternate paint schemes via a slightly simpler method.
+
 1.8.2 (2016-01-14) - Tweaks.
  - Consolidating tech tree for better mod compatibility:
     - Added SpaceY Expanded's tech tree nodes.
