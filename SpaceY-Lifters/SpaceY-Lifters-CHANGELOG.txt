@@ -1,3 +1,14 @@
+1.10 (2016-02-19) - The unintentionally quick update.
+ - SRB 10R (radial) gimbal range reduced to 2 degrees (from 4).
+ - Base (dry) cost of most SRBs (other than 3.75m models) increased slightly to align more with stock.
+ - Moved ModuleManager patches to a "Patches" folder.
+ - Added support for DefaultActionGroups mod, to automatically enable the SAS light on the radial reaction wheels.
+ - Added color switching for 5m decoupler and separator, to match 5m tanks.
+
+1.9 (2016-02-18) - Paint!
+ - Added additional striped paint scheme to 5m tanks.
+ - Switched the Color-Changing config to turn off alternate paint schemes via a slightly simpler method.
+
 1.8.2 (2016-01-14) - Tweaks.
  - Consolidating tech tree for better mod compatibility:
     - Added SpaceY Expanded's tech tree nodes.
