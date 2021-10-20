@@ -30,7 +30,67 @@
 	MODULE
 	{
 		name = ModuleJettison
-		jettisonName = xPaintSchemes
+		jettisonName = tank5mDefaultAlt
+		bottomNodeName = disabled
+		isFairing = True
+		jettisonedObjectMass = 0.1
+		jettisonForce = 0.1
+		jettisonDirection = 0 0 1
+	}
+	MODULE
+	{
+		name = ModuleJettison
+		jettisonName = tank5mWhite
+		bottomNodeName = disabled
+		isFairing = True
+		jettisonedObjectMass = 0.1
+		jettisonForce = 0.1
+		jettisonDirection = 0 0 1
+	}
+	MODULE
+	{
+		name = ModuleJettison
+		jettisonName = tank5mBlack
+		bottomNodeName = disabled
+		isFairing = True
+		jettisonedObjectMass = 0.1
+		jettisonForce = 0.1
+		jettisonDirection = 0 0 1
+	}
+	MODULE
+	{
+		name = ModuleJettison
+		jettisonName = tank5mOrange
+		bottomNodeName = disabled
+		isFairing = True
+		jettisonedObjectMass = 0.1
+		jettisonForce = 0.1
+		jettisonDirection = 0 0 1
+	}
+	MODULE
+	{
+		name = ModuleJettison
+		jettisonName = tank5mRed
+		bottomNodeName = disabled
+		isFairing = True
+		jettisonedObjectMass = 0.1
+		jettisonForce = 0.1
+		jettisonDirection = 0 0 1
+	}
+	MODULE
+	{
+		name = ModuleJettison
+		jettisonName = tank5mBlue
+		bottomNodeName = disabled
+		isFairing = True
+		jettisonedObjectMass = 0.1
+		jettisonForce = 0.1
+		jettisonDirection = 0 0 1
+	}
+	MODULE
+	{
+		name = ModuleJettison
+		jettisonName = tank5mGrey
 		bottomNodeName = disabled
 		isFairing = True
 		jettisonedObjectMass = 0.1
