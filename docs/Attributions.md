@@ -7,7 +7,7 @@ tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Attributions.md v1.0.7.1
-MOD-NAME (ABBV)
+SpaceY Lifters (SYL)
 created: 01 Feb 2022
 updated: 03 Jun 2022
 -->
@@ -15,7 +15,7 @@ updated: 03 Jun 2022
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# MOD-NAME (ABBV)
+# SpaceY Lifters (SYL)
 
 [Home](./index.md)
 
@@ -24,8 +24,7 @@ updated: 03 Jun 2022
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/93697-*/"><img border="0" alt="dtobi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50" height="50" > DaMichel</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/" alt="DaMichel Ltd (KM)"> the DaMichel series of parts addons!</a></li>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/81209-*/"><img border="0" alt="Bezzier" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50" height="50" > Bezzier</a> for picking up where DaMichel left off (Color Curves)</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/"><img border="0" alt="NecroBones" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_11_2015/avatar_96x96.gif.787b9a3478ccb83beb330a550f437d88.thumb.gif.5afcf23f2446f3774eeeeca98687261b.gif" width="50" height="50" > NecroBones</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/" alt="DaMichel Ltd (KM)"> the DaMichel series of parts addons!</a></li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
 
@@ -44,6 +43,8 @@ updated: 03 Jun 2022
 ### Special Thanks
 
 <ul>
+  <li>NBZ, for lots of input, ideas, part names, and art feedback.</li>
+  <li>Akira_R & 4nxs, for their HotRockets configuration work to add variation between vacuum/atmo effects.</li>
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/70516-captainkipard/"><img border="0" alt="Captain Kipard" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/itsame.png.3227b08e54fc9e3eaa0c6c2ad8e9ad07.thumb.png.5d3a3eb0344a23048ea58826e47b9781.png" width="50" height="50" > Captain Kipard</a> for the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/85372-*/"> Mod Development Links Compilation</a> and other tutorials.</li>
   <li>Squad, for making such a great game!</li>
   <li>Everyone else who made modding tutorials.</li>
@@ -68,10 +69,11 @@ updated: 03 Jun 2022
 </ul>
 
 <!-- links -->
-[DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd Forum Thread"
+[SYC]: https://forum.kerbalspaceprogram.com/index.php?/topic/209446-*/ "SpaceY Corporation (SYC)"
+[SYL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209445-*/ "SpaceY Lifters (SYL)"
 
-[damichel]: https://forum.kerbalspaceprogram.com/index.php?/profile/93697-*/ "damichel"
-[bezzier]: https://forum.kerbalspaceprogram.com/index.php?/profile/81209-*/ "Bezzier"
+
+[NecroBones]: https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/ "NecroBones"
 [cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
