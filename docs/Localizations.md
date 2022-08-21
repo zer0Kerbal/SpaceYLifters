@@ -6,7 +6,7 @@ tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- Localizations.md v1.1.7.0
-MOD-NAME (ABBV)
+SpaceY Lifters (SYL)
 created: 01 Feb 2022
 updated: 03 Jun 2022 -->
 
@@ -15,7 +15,7 @@ updated: 03 Jun 2022 -->
   <i class="fa fa-language fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25; color: #BADA55"></i>
 </div>
 
-# MOD-NAME (ABBV)
+# SpaceY Lifters (SYL)
 
 [Home](./index.md)
 
