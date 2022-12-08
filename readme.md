@@ -222,6 +222,8 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 [BOOM]: https://forum.kerbalspaceprogram.com/index.php?/topic/192938-*/ "Kaboom (BOOM)"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells (ODFC)"
+[SYC]: https://forum.kerbalspaceprogram.com/index.php?/topic/209511-*/ "SpaceY Corporation (SYC)"
+[SYE]: https://forum.kerbalspaceprogram.com/index.php?/topic/209445-*/ "SpaceY Expanded (SYE)
 
 [avc]: https://forum.kerbalspaceprogram.com/index.php?/topic/173126-*/ "Add-on Version Checker (AVC)"
 [cls]: http://forum.kerbalspaceprogram.com/index.php?showtopic=192130-*/ "Connected Living Space (CLS)"
