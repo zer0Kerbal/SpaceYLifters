@@ -59,6 +59,10 @@
   * <srb_heavy_loop.wav> 316kb --> 126kb
 5.44mb --> 1.5mb
 
+* moved to SpaceY Corp
+  * Agency 
+  * <themes.cfg> v2.0.0.0
+
   * closes #68 - Part Localization
   * closes #51 - English <us-en.cfg>
   * closes #50 - Localization - Master
