@@ -85,6 +85,3 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 * [SpaceY Corporation (SYC)][SYC]
 
 [SYC]: https://forum.kerbalspaceprogram.com/index.php?/topic/209446-*/ "SpaceY Corporation (SYC)"
-[SYL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209445-*/ "SpaceY Lifters (SYL)"
-[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
