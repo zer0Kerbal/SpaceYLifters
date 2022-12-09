@@ -1,3 +1,7 @@
+1.12.9 (2016-05-31) - Hotfix.
+ - Massive Rocketry/Structure tech nodes are now set to be hidden if empty.
+ - Fixed a harmless mistake in the MM patches, as part of its self cleanup.
+
 1.12.8 (2016-05-31) - Tweaks.
  - Adjusted some nickname tags on engines.
  - Minor tech tree and config changes in MM patches. Partly for better compatibility with Real Scale Boosters.
