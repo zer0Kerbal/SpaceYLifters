@@ -1,3 +1,7 @@
+1.12.1 (2016-04-17) - Tweaks.
+ - Tweaked leg settings.
+ - Moved a leg collider to allow for more accurate aerodynamic occlusion.
+
 1.12 (2016-04-10) - Tweaks.
  - Added 1.25m-0.625m interstage thrust plate to the TweakScale config, and default VAB custom tab.
  - Drastically reduced career prices for fuel tanks, to bring them into line with stock again.
