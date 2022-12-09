@@ -132,14 +132,30 @@
 
 ---
 
-## Version 1.12.5 (2016-05-08) - Tweaks
+## Version 1.12.5.0-release - `<Archival>`
 
+* Released
+  * on 08 May 2016
+  * for KSP 1.1.2
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
 * Refined the primary launch clamp's internal layout, to use as a template for later projects.
 * Added basic thrust curves for SRBs. Flat profile, however thrust tapers off during last 5% of remaining propellant.
 
+* Status 1.12.5.0
+
+* Issues
+  * updates #46 - Archival Releases
+  * closes #15 - Version 1.12.5.0
+  * updated #70 - [BUG]{Archived releases} Errors corrected
+
 ---
 
-## Version 1.12.4 (2016-05-01) - Tweaks
+## Version 1.12.4.1-release - `<Archival>`
+
+* Released
+  * on 01 May 2016
+  * for KSP 1.1.2
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
 
 * Corrected AVC version number. DOH!
 
