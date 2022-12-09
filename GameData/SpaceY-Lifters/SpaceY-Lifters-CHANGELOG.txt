@@ -1,3 +1,8 @@
+1.12.6 (2016-05-12) - Tweaks.
+ - Restricted liquid fuel engines, fairings, and decouplers to non-surface part testing contracts, to match SRBs.
+ - Changed underlying texture for Docking port alignment lights, for compatibility with IndicatorLights.
+ - Converted small lighting textures for docking ports to DDS format.
+
 1.12.5 (2016-05-08) - Tweaks.
  - Refined the primary launch clamp's internal layout, to use as a template for later projects.
  - Added basic thrust curves for SRBs. Flat profile, however thrust tapers off during last 5% of remaining propellant.
