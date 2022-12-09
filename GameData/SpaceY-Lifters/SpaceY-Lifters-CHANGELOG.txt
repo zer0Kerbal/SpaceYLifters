@@ -1,3 +1,9 @@
+1.12.8 (2016-05-31) - Tweaks.
+ - Adjusted some nickname tags on engines.
+ - Minor tech tree and config changes in MM patches. Partly for better compatibility with Real Scale Boosters.
+ - Non-CTT tech nodes are now added, even if CommunityTechTree is installed.
+ - Gigantic Rocketry node internally renamed to match CTT. May have to re-unlock if you don't use CTT.
+
 1.12.7 (2016-05-18) - Tweaks.
  - Added configs for docking ports to use IndicatorLights, if installed.
  - Reworked docking alignment lights to be slightly prettier when turned off, or dim, etc.
