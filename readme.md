@@ -138,7 +138,7 @@ parts, config
 ### Credits and Special Thanks
 
 * [[NecroBones][necrobones] for creating this glorious parts addon!
-* see [Attribution.md][MOD:attr] for more comprehensive list
+* see [Attributions][MOD:attr] for more comprehensive list
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
@@ -188,7 +188,7 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 <!--- mod provenance -->
 [MOD:0:dnload]: https://www.curseforge.com/kerbal/ksp-mods/spaceylifters "CurseForge"
 [MOD:0:source]: https://www.curseforge.com/kerbal/ksp-mods/spaceylifters "CurseForge"
-[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/90545 "KSP Forum"
+[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/90545-*/ "KSP Forum"
 
 <!--- license provenance -->
 [LIC:0:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
@@ -273,8 +273,7 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [twitter]: https://twitter.com/zer0Kerbal
 [youtube]: https://www.youtube.com/@zer0Kerbal
 
-[AUTH-NAME]: https://forum.kerbalspaceprogram.com/index.php?/profile/102159-*/ "AUTH-NAME"
-[AUTH-NAME:1]: https://forum.kerbalspaceprogram.com/index.php?/profile/103696-*/ "AUTH-NAME:1"
+[necrobones]: https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/ "NecroBones/Orvidius"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 [IMG:flg:0]: https://via.placeholder.com/256x160png/ffffff/bada55?text=KGEx "Mini Sample Return Capsule Flag"
@@ -296,6 +295,4 @@ Track progress: issues [here][MOD:issue] and projects [here](https://github.com/
 <!-- footnotes -->
 [^1]: this isn't a mod. ;P  
 [^2]: ***may*** work on other versions (YMMV)  
-[^3]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*  
-
-[//]: # (This behaves like a comment)
+[^3]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
