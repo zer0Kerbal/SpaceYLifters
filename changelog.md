@@ -37,11 +37,24 @@
 
 ---
 
-## Version 1.16 (2017-01-30) - SRB Update
+## Version 1.16.0.0-release - `<Archival>`
 
+* Released
+  * on 30 Jan 2017
+  * for KSP 1.4.1
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
+
+* SRB Update
 * Corrected smoke emitter location on the 3.75m SRB, 21m length.
 * Added a 30m long 3.75m SRB.
 * Added a 29m long 2.5m SRB.
+
+* Status 1.16.0.0
+
+* Issues
+  * updates #46 - Archival Releases
+  * closes #26 - Version 1.16.0.0
+  * updated #70 - [BUG]{Archived releases} Errors corrected
 
 ---
 
