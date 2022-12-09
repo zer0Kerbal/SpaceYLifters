@@ -1,3 +1,10 @@
+1.17 (2018-04-02) - KSP 1.4 update.
+ - Reworked color-changing to use KSP 1.4's mesh switcher.
+ - Flag decals disabled for now, since the stock mesh switcher doesn't play nicely with them.
+ - Disabled auto-caps on tanks, due to KSP bugs over several versions.
+ - Changed ModularFuelTanks config to use consolidated wildcard patch.
+ - Added some wildcards to TweakScale config.
+
 1.16 (2017-01-30) - SRB Update.
  - Corrected smoke emitter location on the 3.75m SRB, 21m length.
  - Added a 30m long 3.75m SRB.
