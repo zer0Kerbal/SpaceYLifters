@@ -10,6 +10,67 @@
 | spacedock  | (https://spacedock.info/mod/88)                                   |
 | ckan       | SpaceY-Lifters                                                    |
 
+## Version 1.9.99.0-adoption - `<Thank you NecroBones>`
+
+* Released
+  * on 10 Dec 2022
+  * for KSP 1.12.4
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Archival Releases
+
+* Create
+  * 1.17.1.0-release `<Archival>`
+  * 1.17.0.0-release `<Archival>`
+  * 1.16.0.0-release `<Archival>`
+  * 1.15.1.0-release `<Archival>`
+  * 1.15.0.0-release `<Archival>`
+  * 1.14.0.0-release `<Archival>`
+  * 1.13.2.0-release `<Archival>`
+  * 1.13.1.0-release `<Archival>`
+  * 1.13.0.0-release `<Archival>`
+  * 1.12.9.0-release `<Archival>`
+  * 1.12.8.0-release `<Archival>`
+  * 1.12.7.0-release `<Archival>`
+  * 1.12.6.0-release `<Archival>`
+  * 1.12.5.0-release `<Archival>`
+  * 1.12.4.0-release `<Archival>`
+  * 1.12.2.0-release `<Archival>`
+  * 1.12.1.0-release `<Archival>`
+  * 1.12.0.0-release `<Archival>`
+  * 1.11.5.0-release `<Archival>`
+  * 1.11.4.0-release `<Archival>`
+  * 1.11.3.0-release `<Archival>`
+  * 1.11.2.0-release `<Archival>`
+  * 1.11.1.0-release `<Archival>`
+  * 1.11.0.0-release `<Archival>`
+  * 1.10.0.0-release `<Archival>`
+  * closes #46 - Archival Releases
+  * closes #70 - [BUG]{Archived releases} Errors corrected
+
+
+  * closes #68 - Part Localization
+  * closes #51 - English <us-en.cfg>
+  * closes #50 - Localization - Master
+  * closes #49 - Create <SpaceYLifters.cfg>
+  * closes #48 - Part Asset Updates
+  * closes #47 - Create Localization directory and contents
+  * closes #45 - Create HeroLogo.png
+  * closes #44 - Create GitHub Pages
+
+
+### Status
+
+* Issues
+  * closes #40 - SpaceYLifters (SYL) 1.9.99.0-adoption `<Thank you NecroBones>` edition
+  * closes #41 - 1.1.99.0 Create Legal Mumbo Jumbo
+  * closes #42 - 1.1.99.0 Create Documentation
+  * closes #43 - 1.1.99.0 Create Social Media Presence
+
+---
+
 ## Version 1.17.2.0-release - `<Archival>`
 
 * Released
