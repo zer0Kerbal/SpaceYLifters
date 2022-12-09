@@ -73,13 +73,25 @@
 
 ---
 
-## Version 1.13.2 (2016-10-10) - Basic KSP 1.2 Compatibility
+## Version 1.13.2.0-release - `<Archival>`
+
+* Released
+  * on 10 Oct 2016
+  * for KSP 1.2.0
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
 
 * Added KSP 1.2 and KerbNet modules to probe cores.
 * Landing leg suspension disabled until a 1.2 solution can be found.
   * Using ModuleAnimateGeneric for the time being, so legs can still be used.
   * Will need an Action Group, or the Default Action Groups mod, for best results.
 * Categories adjusted for several parts, corresponding to 1.2 changes.
+
+* Status 1.13.2.0
+
+* Issues
+  * updates #46 - Archival Releases
+  * closes #22 - Version 1.13.2.0
+  * updated #70 - [BUG]{Archived releases} Errors corrected
 
 ---
 
