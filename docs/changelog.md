@@ -41,13 +41,25 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.17 (2018-04-02) - KSP 1.4 update
+## Version 1.16.0.0-release - `<Archival>`
+
+* Released
+  * on 02 Apr 2018
+  * for KSP 1.4.1
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
 
 * Reworked color-changing to use KSP 1.4's mesh switcher.
 * Flag decals disabled for now, since the stock mesh switcher doesn't play nicely with them.
 * Disabled auto-caps on tanks, due to KSP bugs over several versions.
 * Changed ModularFuelTanks config to use consolidated wildcard patch.
 * Added some wildcards to TweakScale config.
+
+* Status 1.17.0.0
+
+* Issues
+  * updates #46 - Archival Releases
+  * closes #27 - Version 1.17.0.0
+  * updated #70 - [BUG]{Archived releases} Errors corrected
 
 ---
 
