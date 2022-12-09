@@ -27,7 +27,12 @@
 
 ---
 
-## Version 1.17 (2018-04-02) - KSP 1.4 update
+## Version 1.17.0.0-release - `<Archival>`
+
+* Released
+  * on 02 Apr 2018
+  * for KSP 1.4.1
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
 
 * Reworked color-changing to use KSP 1.4's mesh switcher.
 * Flag decals disabled for now, since the stock mesh switcher doesn't play nicely with them.
