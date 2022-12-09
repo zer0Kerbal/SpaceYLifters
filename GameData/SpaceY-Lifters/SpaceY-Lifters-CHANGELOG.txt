@@ -1,3 +1,6 @@
+1.11.1 (2016-03-11) - Tweaks.
+ - Added/enhanced custom category tab for FilterExtensions (will also include SpaceY Expanded, if installed).
+
 1.11 (2016-02-28) - Tweaks.
  - Adjusted the MM rule for DefaultActionGroups to tweak the descriptions in the radial reaction wheels.
  - Added 5m color-changing to the R7 engine cluster. 

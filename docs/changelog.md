@@ -223,9 +223,21 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.11.1 (2016-03-11) - Tweaks
+## Version 1.11.1.0-release - `<Tweaks>`
+
+* Released
+  * on 11 Mar 2016
+  * for KSP 1.0.5
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
 
 * Added/enhanced custom category tab for FilterExtensions (will also include SpaceY Expanded, if installed).
+
+* Status 1.11.1.0
+
+* Issues
+  * updated #70 - [BUG]{Archived releases} Errors corrected #70
+  * updates #46 - Archival Releases
+  * closes #6 - Version 1.11.1
 
 ---
 
@@ -245,7 +257,6 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #46 - Archival Releases
   * closes #5 - Version 1.11
-
 
 ---
 
