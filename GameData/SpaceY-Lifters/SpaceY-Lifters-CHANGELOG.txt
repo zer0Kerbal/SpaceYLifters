@@ -1,3 +1,8 @@
+1.15.1 (2017-01-03) - Compatibility Update.
+ - Added "NEEDS" conditionals for ConnectedLivingSpace and EngineIgnitor patches, to clean up log spam.
+ - EngineIgnitor patches moved to their own file in the patches folder.
+ - Added "NEEDS" conditionals for Engineering Tech Tree compatibility.
+
 1.15 (2016-10-21) - Update.
  - Added new RCS sounds/effects.
  - Added a linear RCS thruster.
