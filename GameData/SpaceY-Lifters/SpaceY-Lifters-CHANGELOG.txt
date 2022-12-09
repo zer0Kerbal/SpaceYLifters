@@ -1,3 +1,8 @@
+1.11 (2016-02-28) - Tweaks.
+ - Adjusted the MM rule for DefaultActionGroups to tweak the descriptions in the radial reaction wheels.
+ - Added 5m color-changing to the R7 engine cluster. 
+ - Corrected the missing blue texture from the 3.75m tall 5m tank.
+
 1.10 (2016-02-19) - The unintentionally quick update.
  - SRB 10R (radial) gimbal range reduced to 2 degrees (from 4).
  - Base (dry) cost of most SRBs (other than 3.75m models) increased slightly to align more with stock.
