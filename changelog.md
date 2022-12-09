@@ -3,7 +3,7 @@
 | modName    | SpaceY Lifters (SYL)                                              |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-NC-SA-4.0                                                   |
-| author     | NecroBones and zer0Kerbal                                         |
+| author     | NecroBones(Orvidius) and zer0Kerbal                               |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209445-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SpaceYLifters)          |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SpaceYLifters)        |
@@ -657,18 +657,31 @@
 
 ---
 
-## Version 0.11 (2015-02-18) - Beta, minor imrpovement
+## Version 0.11.0.0-release - `<Beta, minor improvement>`
+
+* Released
+  * on 18 Feb 2015
+  * for KSP 1.0.5
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
 
 * Corrected several mistakes in the Community Tech Tree patch.
 * Updated the HotRockets config to have different vacuum/atmo effects.
 * Added some gimbal to the 1.875m SRBs (inspired by the Space Shuttle SRB gimbal).
 * Slightly updated the texture on the 1.875m SRBs, plus other minor fixes.
 
+* Status 1.11.0
+
+* Issues
+  * updates #46 - Archival Releases
+  * closes #5 - Version 1.11
+
 ---
 
-## Version 0.10.0 - `<Aerodynamic and Structural Edition>`
+## Version 0.10.0.0-release - `<Aerodynamic and Structural Edition>`
 
 * 06 Feb 2015
+* KSP 1.0.5
+* [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
 
 * Added "command station" settings to the probe cores for Remote Tech.
 * Added 5m and 3.75m inline fairings with optional size adapters + associated nose cones.
