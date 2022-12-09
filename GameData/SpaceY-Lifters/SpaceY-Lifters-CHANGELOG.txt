@@ -1,3 +1,11 @@
+1.12 (2016-04-10) - Tweaks.
+ - Added 1.25m-0.625m interstage thrust plate to the TweakScale config, and default VAB custom tab.
+ - Drastically reduced career prices for fuel tanks, to bring them into line with stock again.
+ - Increased career prices for engines, to bring them into line with stock again.
+ - Added a 2.5m thrust plate, with 1x 1.25m and 8x 0.625m nodes (half scale version of the 5m model). 
+ - Adjusted leg deployment animation to reduce the "foot teleportation" problem.
+ - Increased damper ratio on the leg suspension.
+
 1.11.5 (2016-04-05) - Tweaks.
  - Moved conical payload bay to Specialized Construction tech node.
  - Added a 1.25m-0.625m interstage thrust plate.
