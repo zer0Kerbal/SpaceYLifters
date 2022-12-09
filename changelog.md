@@ -117,10 +117,22 @@
 
 ---
 
-## Version 1.12.7 (2016-05-18) - Tweaks
+## Version 1.12.7.0-release - `<Archival>`
+
+* Released
+  * on 18 May 2016
+  * for KSP 1.1.2
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
 
 * Added configs for docking ports to use IndicatorLights, if installed.
 * Reworked docking alignment lights to be slightly prettier when turned off, or dim, etc.
+
+* Status 1.12.7.0
+
+* Issues
+  * updates #46 - Archival Releases
+  * closes #17 - Version 1.12.7.0
+  * updated #70 - [BUG]{Archived releases} Errors corrected
 
 ---
 
