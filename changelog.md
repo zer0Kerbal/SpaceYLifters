@@ -145,15 +145,33 @@
 
 ---
 
-## Version 1.12.3 (2016-05-01) - Tweaks
+## Version 1.12.4.0-release - `<Archival>`
 
+* Released
+  * on 01 May 2016
+  * for KSP 1.1.2
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
+
+* 1.12.3.0 ?
 * Updated Probe cores and reaction wheels to use IndicatorLights if available.
 * Probe cores now also have a toggle option for light-up labels that correspond to the indicator lights.
 * Corrected a missing texture placeholder for the 3.75m stack separator.
 
+* Status 1.12.4.0
+
+* Issues
+  * updates #46 - Archival Releases
+  * closes #14 - Version 1.12.4.0
+  * updated #70 - [BUG]{Archived releases} Errors corrected
+
 ---
 
-## Version 1.12.2 (2016-04-25) - Tweaks
+## Version 1.12.2.0-release - `<Archival>`
+
+* Released
+  * on 25 Apr 2016
+  * for KSP 1.1.2
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
 
 * More search keywords on engines.
 * Added colliders setting for procedural fairing base.
@@ -162,6 +180,13 @@
 * Tech Tree nodes are no longer hidden if empty.
 * Corrected some copy/paste mistakes with SmokeScreen rescaling settings for the small SRB particle emitters.
 
+* Status 1.12.2.0
+
+* Issues
+  * updates #46 - Archival Releases
+  * closes #13 - Version 1.12.2.0
+  * updated #70 - [BUG]{Archived releases} Errors corrected
+
 ---
 
 ## Version 1.12.1.0-release - `<Archival>`
@@ -169,15 +194,16 @@
 * Released
   * on 17 Apr 2016
   * for KSP 1.1.0
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
 
 * Tweaked leg settings.
 * Moved a leg collider to allow for more accurate aerodynamic occlusion.
 
-* Status 1.12.1
+* Status 1.12.1.0
 
 * Issues
   * updates #46 - Archival Releases
-  * closes #12 - Version 1.12.1
+  * closes #12 - Version 1.12.1.0
   * updated #70 - [BUG]{Archived releases} Errors corrected
 
 ---
