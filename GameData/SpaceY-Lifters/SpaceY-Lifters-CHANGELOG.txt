@@ -1,3 +1,6 @@
+1.17.1 (2018-04-02) - KSP 1.4 update.
+ - Corrected a copy/paste mistake in color-changing config.
+
 1.17 (2018-04-02) - KSP 1.4 update.
  - Reworked color-changing to use KSP 1.4's mesh switcher.
  - Flag decals disabled for now, since the stock mesh switcher doesn't play nicely with them.

@@ -24,24 +24,43 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/88)                                   |
 | ckan       | SpaceY-Lifters                                                    |
 
-## Version 1.17.2
+## Version 1.17.2.0-release - `<Archival>`
 
-* 02 Apr 2018
+* Released
+  * on 02 Apr 2018
+  * for KSP 1.4.1
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
 
 * Re-upload
 
+### Status
+
+* Issues
+  * closes #29 - Version 1.17.2
+  * closes #46 - Archival Releases
+  * updated #70 - [BUG]{Archived releases} Errors corrected
+
 ---
 
-## Version 1.17.1
+## Version 1.17.1.0-release - `<Archival>`
 
-* 02 Apr 2018
+* Released
+  * on 02 Apr 2018
+  * for KSP 1.4.1
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
 
 * KSP 1.4 update
 * Corrected a copy/paste mistake in color-changing config.
+* Status 1.17.1.0
+
+* Issues
+  * updates #46 - Archival Releases
+  * closes #28 - Version 1.17.1.0
+  * updated #70 - [BUG]{Archived releases} Errors corrected
 
 ---
 
-## Version 1.16.0.0-release - `<Archival>`
+## Version 1.17.0.0-release - `<Archival>`
 
 * Released
   * on 02 Apr 2018
