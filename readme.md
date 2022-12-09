@@ -103,7 +103,7 @@ or [![CKAN][ckan:img]][ckan:url]
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
 * [SpaceY Corporation (SYC)][SYC]
 
-### Recommends Other [SpaceY Corp (SYC)][SYC] mods
+### Recommends Other [SpaceY Lifters (SYL)][SYC] mods
 
 * [SpaceY Expanded (SYE)][SYE]
 
