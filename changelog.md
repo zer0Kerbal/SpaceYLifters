@@ -164,10 +164,21 @@
 
 ---
 
-## Version 1.12.1 (2016-04-17) - Tweaks
+## Version 1.12.1.0-release - `<Archival>`
+
+* Released
+  * on 17 Apr 2016
+  * for KSP 1.1.0
 
 * Tweaked leg settings.
 * Moved a leg collider to allow for more accurate aerodynamic occlusion.
+
+* Status 1.12.1
+
+* Issues
+  * updates #46 - Archival Releases
+  * closes #12 - Version 1.12.1
+  * updated #70 - [BUG]{Archived releases} Errors corrected
 
 ---
 
