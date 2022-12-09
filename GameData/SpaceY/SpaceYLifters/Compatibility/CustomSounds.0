@@ -1,3 +1,10 @@
+// CustomSounds.cfg v2.0.0.0
+// SpaceY Lifters (SYL)
+// created: 17 Nov 2014
+// updated: 09 Dec 2022
+
+// This file: CC BY-NC-SA 4.0 by zer0Kerbal
+
 @PART[SYengine2mM1]:FOR[SpaceYLifters]
 {
 	@EFFECTS
@@ -6,7 +13,7 @@
 		{
 			@AUDIO
 			{
-				@clip = SpaceY-Lifters/Sounds/sls_loop_high // sound_rocket_spurts
+				@clip = SpaceY/SpaceYLifters/Sounds/sls_loop_high // sound_rocket_spurts
 			}
 		}
 	}
@@ -19,14 +26,14 @@
 		{
 			@AUDIO
 			{
-				@clip = SpaceY-Lifters/Sounds/sls_loop_deep // sound_rocket_spurts
+				@clip = SpaceY/SpaceYLifters/Sounds/sls_loop_deep // sound_rocket_spurts
 			}
 		}
 		@engage
 		{
 			@AUDIO
 			{
-				@clip = SpaceY-Lifters/Sounds/sls_start // sound_vent_soft
+				@clip = SpaceY/SpaceYLifters/Sounds/sls_start // sound_vent_soft
 			}
 		}
 	}
@@ -39,21 +46,21 @@
 		{
 			@AUDIO
 			{
-				@clip = SpaceY-Lifters/Sounds/sls_loop_high // sound_rocket_spurts
+				@clip = SpaceY/SpaceYLifters/Sounds/sls_loop_high // sound_rocket_spurts
 			}
 		}
 		@running_four
 		{
 			@AUDIO
 			{
-				@clip = SpaceY-Lifters/Sounds/sls_loop_high // sound_rocket_spurts
+				@clip = SpaceY/SpaceYLifters/Sounds/sls_loop_high // sound_rocket_spurts
 			}
 		}
 		@engage
 		{
 			@AUDIO
 			{
-				@clip = SpaceY-Lifters/Sounds/sls_start // sound_vent_soft
+				@clip = SpaceY/SpaceYLifters/Sounds/sls_start // sound_vent_soft
 			}
 		}
 	}
@@ -66,14 +73,14 @@
 		{
 			@AUDIO
 			{
-				@clip = SpaceY-Lifters/Sounds/sls_loop_blend // sound_rocket_spurts
+				@clip = SpaceY/SpaceYLifters/Sounds/sls_loop_blend // sound_rocket_spurts
 			}
 		}
 		@engage
 		{
 			@AUDIO
 			{
-				@clip = SpaceY-Lifters/Sounds/sls_start // sound_vent_soft
+				@clip = SpaceY/SpaceYLifters/Sounds/sls_start // sound_vent_soft
 			}
 		}
 	}
@@ -86,21 +93,21 @@
 		{
 			@AUDIO
 			{
-				@clip = SpaceY-Lifters/Sounds/srb_heavy_loop // sound_rocket_spurts
+				@clip = SpaceY/SpaceYLifters/Sounds/srb_heavy_loop // sound_rocket_spurts
 			}
 		}
 		@running_four
 		{
 			@AUDIO
 			{
-				@clip = SpaceY-Lifters/Sounds/srb_loop // sound_rocket_spurts
+				@clip = SpaceY/SpaceYLifters/Sounds/srb_loop // sound_rocket_spurts
 			}
 		}
 		@engage
 		{
 			@AUDIO
 			{
-				@clip = SpaceY-Lifters/Sounds/sls_start // sound_vent_soft
+				@clip = SpaceY/SpaceYLifters/Sounds/sls_start // sound_vent_soft
 			}
 		}
 	}
@@ -113,14 +120,14 @@
 		{
 			@AUDIO
 			{
-				@clip = SpaceY-Lifters/Sounds/srb_heavy_loop // sound_rocket_spurts
+				@clip = SpaceY/SpaceYLifters/Sounds/srb_heavy_loop // sound_rocket_spurts
 			}
 		}
 		@engage
 		{
 			@AUDIO
 			{
-				@clip = SpaceY-Lifters/Sounds/sls_start // sound_vent_soft
+				@clip = SpaceY/SpaceYLifters/Sounds/sls_start // sound_vent_soft
 			}
 		}
 	}
@@ -133,7 +140,7 @@
 		{
 			@AUDIO
 			{
-				@clip = SpaceY-Lifters/Sounds/srb_heavy_loop // sound_rocket_hard
+				@clip = SpaceY/SpaceYLifters/Sounds/srb_heavy_loop // sound_rocket_hard
 			}
 		}
 	}
@@ -146,7 +153,7 @@
 		{
 			@AUDIO
 			{
-				@clip = SpaceY-Lifters/Sounds/srb_loop // sound_rocket_hard
+				@clip = SpaceY/SpaceYLifters/Sounds/srb_loop // sound_rocket_hard
 			}
 		}
 	}
@@ -159,7 +166,7 @@
 		{
 			@AUDIO
 			{
-				@clip = SpaceY-Lifters/Sounds/srb_loop // sound_rocket_hard
+				@clip = SpaceY/SpaceYLifters/Sounds/srb_loop // sound_rocket_hard
 			}
 		}
 	}
