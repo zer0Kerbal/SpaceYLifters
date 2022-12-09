@@ -24,6 +24,96 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/88)                                   |
 | ckan       | SpaceY-Lifters                                                    |
 
+## Version 1.9.99.0-adoption - `<Thank you NecroBones>`
+
+* Released
+  * on 10 Dec 2022
+  * for KSP 1.12.4
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 1.9.99.0
+
+* Parts updated (and included in this (pre)release)
+  * Docking
+    * <syl-docking3m.cfg>
+    * <syl-docking5m.cfg>
+    * <syl-docking7m.cfg>
+  * Control
+    * <syl-sasR3m.cfg>
+    * <syl-sasR5m.cfg>
+  * Command
+    * <syl-probe5m.cfg>
+    * <syl-probe3m.cfg>
+  * CargoBays
+    * <syl-bay3m2m.cfg>
+    * <syl-bay5m3m.cfg>
+
+### Archival Releases
+
+* Create
+  * 1.17.1.0-release `<Archival>`
+  * 1.17.0.0-release `<Archival>`
+  * 1.16.0.0-release `<Archival>`
+  * 1.15.1.0-release `<Archival>`
+  * 1.15.0.0-release `<Archival>`
+  * 1.14.0.0-release `<Archival>`
+  * 1.13.2.0-release `<Archival>`
+  * 1.13.1.0-release `<Archival>`
+  * 1.13.0.0-release `<Archival>`
+  * 1.12.9.0-release `<Archival>`
+  * 1.12.8.0-release `<Archival>`
+  * 1.12.7.0-release `<Archival>`
+  * 1.12.6.0-release `<Archival>`
+  * 1.12.5.0-release `<Archival>`
+  * 1.12.4.0-release `<Archival>`
+  * 1.12.2.0-release `<Archival>`
+  * 1.12.1.0-release `<Archival>`
+  * 1.12.0.0-release `<Archival>`
+  * 1.11.5.0-release `<Archival>`
+  * 1.11.4.0-release `<Archival>`
+  * 1.11.3.0-release `<Archival>`
+  * 1.11.2.0-release `<Archival>`
+  * 1.11.1.0-release `<Archival>`
+  * 1.11.0.0-release `<Archival>`
+  * 1.10.0.0-release `<Archival>`
+  * closes #46 - Archival Releases
+  * closes #70 - [BUG]{Archived releases} Errors corrected
+
+* convert to .ogg
+  * <srb_loop.wav> 1.507mb --> 116kb
+  * <sls_loop_blend.wav> 1.507mb --> 499kb
+  * <sls_loop_deep.wav> 1.507mb --> 319kb
+  * <sls_loop_high.wav> 428kb --> 386kb
+  * <sls_start.wav> 316kb  --> 99kb
+  * <srb_heavy_loop.wav> 316kb --> 126kb
+5.44mb --> 1.5mb
+
+* moved to SpaceY Corp
+  * Agency 
+  * <themes.cfg> v2.0.0.0
+
+  * closes #68 - Part Localization
+  * closes #51 - English <us-en.cfg>
+  * closes #50 - Localization - Master
+  * closes #49 - Create <SpaceYLifters.cfg>
+  * closes #48 - Part Asset Updates
+  * closes #47 - Create Localization directory and contents
+  * closes #45 - Create HeroLogo.png
+  * closes #44 - Create GitHub Pages
+
+
+### Status
+
+* Issues
+  * closes #40 - SpaceYLifters (SYL) 1.9.99.0-adoption `<Thank you NecroBones>` edition
+  * closes #41 - 1.1.99.0 Create Legal Mumbo Jumbo
+  * closes #42 - 1.1.99.0 Create Documentation
+  * closes #43 - 1.1.99.0 Create Social Media Presence
+
+---
+
 ## Version 1.17.2.0-release - `<Archival>`
 
 * Released
