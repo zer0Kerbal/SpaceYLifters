@@ -1,3 +1,8 @@
+1.16 (2017-01-30) - SRB Update.
+ - Corrected smoke emitter location on the 3.75m SRB, 21m length.
+ - Added a 30m long 3.75m SRB.
+ - Added a 29m long 2.5m SRB.
+
 1.15.1 (2017-01-03) - Compatibility Update.
  - Added "NEEDS" conditionals for ConnectedLivingSpace and EngineIgnitor patches, to clean up log spam.
  - EngineIgnitor patches moved to their own file in the patches folder.
