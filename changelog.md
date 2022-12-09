@@ -93,11 +93,23 @@
 
 ---
 
-## Version 1.13 (2016-06-08) - Update
+## Version 1.12.9.0-release - `<Archival>`
+
+* Released
+  * on 08 Jun 2016
+  * for KSP 1.1.3
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
 
 * Adapters and Thrust Plates marked as passable for Connected Living Space so that they can be used for station construction, and docking ports, etc.
 * Added 5m/3.75m conical payload bay.
 * Adjusted the "hide if empty" rules for the tech nodes.
+
+* Status 1.13.0.0
+
+* Issues
+  * updates #46 - Archival Releases
+  * closes #20 - Version 1.13.0.0
+  * updated #70 - [BUG]{Archived releases} Errors corrected
 
 ---
 
