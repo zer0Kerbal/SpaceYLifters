@@ -3,7 +3,7 @@
 
 // Appearance switching, when available:
 
-@PART[SYtank5mL*|SYtank5m3mAdapter|SYtank5mCone2]:NEEDS[InterstellarFuelSwitch|Firespitter]:AFTER[SpaceY-Lifters]
+@PART[SYengine5mR7|SYtank5mL*|SYtank5m3mAdapter|SYtank5mCone2|SYdecoupler5m|SYseparator5m]:NEEDS[InterstellarFuelSwitch|Firespitter]:AFTER[SpaceY-Lifters]
 {
 	@MODEL {
 		texture = orange-jumbo-0, Squad/Parts/FuelTank/fuelTankJumbo-64/model000
@@ -23,84 +23,14 @@
 
 // Appearance switching turned off, when not available:
 
-@PART[SYtank5mL*|SYtank5m3mAdapter|SYtank5mCone2]:NEEDS[!InterstellarFuelSwitch&!Firespitter]:AFTER[SpaceY-Lifters]
+@PART[SYengine5mR7|SYtank5mL*|SYtank5m3mAdapter|SYtank5mCone2|SYdecoupler5m|SYseparator5m]:NEEDS[!InterstellarFuelSwitch&!Firespitter]:AFTER[SpaceY-Lifters]
 {
 	node_stack_disabled = 0.0, -1000.0, 0.0, 0.0, -1.0, 0.0, 0
 
 	MODULE
 	{
 		name = ModuleJettison
-		jettisonName = tank5mDefaultAlt
-		bottomNodeName = disabled
-		isFairing = True
-		jettisonedObjectMass = 0.1
-		jettisonForce = 0.1
-		jettisonDirection = 0 0 1
-	}
-	MODULE
-	{
-		name = ModuleJettison
-		jettisonName = tank5mWhite
-		bottomNodeName = disabled
-		isFairing = True
-		jettisonedObjectMass = 0.1
-		jettisonForce = 0.1
-		jettisonDirection = 0 0 1
-	}
-	MODULE
-	{
-		name = ModuleJettison
-		jettisonName = tank5mBlack
-		bottomNodeName = disabled
-		isFairing = True
-		jettisonedObjectMass = 0.1
-		jettisonForce = 0.1
-		jettisonDirection = 0 0 1
-	}
-	MODULE
-	{
-		name = ModuleJettison
-		jettisonName = tank5mOrange
-		bottomNodeName = disabled
-		isFairing = True
-		jettisonedObjectMass = 0.1
-		jettisonForce = 0.1
-		jettisonDirection = 0 0 1
-	}
-	MODULE
-	{
-		name = ModuleJettison
-		jettisonName = tank5mRed
-		bottomNodeName = disabled
-		isFairing = True
-		jettisonedObjectMass = 0.1
-		jettisonForce = 0.1
-		jettisonDirection = 0 0 1
-	}
-	MODULE
-	{
-		name = ModuleJettison
-		jettisonName = tank5mBlue
-		bottomNodeName = disabled
-		isFairing = True
-		jettisonedObjectMass = 0.1
-		jettisonForce = 0.1
-		jettisonDirection = 0 0 1
-	}
-	MODULE
-	{
-		name = ModuleJettison
-		jettisonName = tank5mGrey
-		bottomNodeName = disabled
-		isFairing = True
-		jettisonedObjectMass = 0.1
-		jettisonForce = 0.1
-		jettisonDirection = 0 0 1
-	}
-	MODULE
-	{
-		name = ModuleJettison
-		jettisonName = tank5mStripes
+		jettisonName = xPaintSchemes
 		bottomNodeName = disabled
 		isFairing = True
 		jettisonedObjectMass = 0.1

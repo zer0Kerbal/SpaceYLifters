@@ -27,7 +27,7 @@
 
 ---
 
-## Version 1.17.0.0-release - `<Archival>`
+## Version 1.16.0.0-release - `<Archival>`
 
 * Released
   * on 02 Apr 2018
@@ -39,6 +39,13 @@
 * Disabled auto-caps on tanks, due to KSP bugs over several versions.
 * Changed ModularFuelTanks config to use consolidated wildcard patch.
 * Added some wildcards to TweakScale config.
+
+* Status 1.17.0.0
+
+* Issues
+  * updates #46 - Archival Releases
+  * closes #27 - Version 1.17.0.0
+  * updated #70 - [BUG]{Archived releases} Errors corrected
 
 ---
 
