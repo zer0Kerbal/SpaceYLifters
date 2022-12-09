@@ -1,3 +1,10 @@
+1.13.2 (2016-10-10) - Basic KSP 1.2 Compatibility.
+ - Added KSP 1.2 and KerbNet modules to probe cores.
+ - Landing leg suspension disabled until a 1.2 solution can be found.
+    - Using ModuleAnimateGeneric for the time being, so legs can still be used.
+    - Will need an Action Group, or the Default Action Groups mod, for best results.
+ - Categories adjusted for several parts, corresponding to 1.2 changes.
+
 1.13.1 (2016-08-01) - Tweaks.
  - Icon-only shroud added to fairing base, for easy identification in menu.
  - 5m conical bay added to custom parts tab.
