@@ -182,11 +182,24 @@
 
 ---
 
-## Version 1.11.5 (2016-04-05) - Tweaks
+## Version 1.11.5.0-release - `<Archival>`
 
-* Moved conical payload bay to Specialized Construction tech node.
-* Added a 1.25m-0.625m interstage thrust plate.
-* Softened leg suspension spring.
+* Released
+  * on 05 Apr 2016
+  * for KSP 1.1.0
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
+
+* Tweaks
+  * Moved conical payload bay to Specialized Construction tech node.
+  * Added a 1.25m-0.625m interstage thrust plate.
+  * Softened leg suspension spring.
+
+* Status 1.11.5.0
+
+* Issues
+  * updates #46 - Archival Releases
+  * closes #10 - Version 1.11.5.0
+  * updated #70 - [BUG]{Archived releases} Errors corrected
 
 ---
 
