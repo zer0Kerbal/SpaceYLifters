@@ -78,12 +78,25 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.14 (2016-10-12) - More KSP 1.2 Compatibility & Fixes
+## Version 1.14.0.0-release - `<Archival>`
 
+* Released
+  * on 12 Oct 2016
+  * for KSP 1.2.0
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
+
+* More KSP 1.2 Compatibility & Fixes
 * Landing legs should now work in the Landing Gear action group automatically again.
 * 5m Fairing base null reference exception corrected, and is available again.
 * Names adjusted on some thrust plates / adapters.
 * Version changed to 1.14 to make it more clear this is a significant 1.2 update.
+
+* Status 1.14.0.0
+
+* Issues
+  * updates #46 - Archival Releases
+  * closes #23 - Version 1.14.0.0
+  * updated #70 - [BUG]{Archived releases} Errors corrected
 
 ---
 
