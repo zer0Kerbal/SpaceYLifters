@@ -36,6 +36,6 @@ https://kerbalstuff.com/mod/352/SpaceY%20Heavy%20Lifters%20Parts%20Pack
 Curse.com (download):
 http://www.curse.com/ksp-mods/kerbal/225656-spacey-heavy-lifters-parts-pack
 
-This parts pack is being shared under the CC-NC-SA license:
+This parts pack is being shared under the CC-BY-NC-SA license:
 http://creativecommons.org/licenses/by-nc-sa/4.0/
 
