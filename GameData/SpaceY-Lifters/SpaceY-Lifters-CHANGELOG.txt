@@ -1,3 +1,11 @@
+1.12.2 (2016-04-25) - Tweaks.
+ - More search keywords on engines.
+ - Added colliders setting for procedural fairing base.
+ - Updated heat shield's staging settings to match stock changes in 1.1.
+ - Fixed the "always transparent" problem in the VAB for the service/cargo bays.
+ - Tech Tree nodes are no longer hidden if empty.
+ - Corrected some copy/paste mistakes with SmokeScreen rescaling settings for the small SRB particle emitters.
+
 1.12.1 (2016-04-17) - Tweaks.
  - Tweaked leg settings.
  - Moved a leg collider to allow for more accurate aerodynamic occlusion.
