@@ -1,0 +1,43 @@
+
+// WARNING -- DO NOT REMOVE THIS FILE. It's needed for both enabled AND disabled conditions.
+
+// Appearance switching, when available:
+
+@PART[SYengine5mR7|SYtank5mL*|SYtank5m3mAdapter|SYtank5mCone2|SYdecoupler5m|SYseparator5m]:NEEDS[InterstellarFuelSwitch|Firespitter]:AFTER[SpaceY-Lifters]
+{
+	@MODEL {
+		texture = orange-jumbo-0, Squad/Parts/FuelTank/fuelTankJumbo-64/model000
+		texture = orange-jumbo-1, Squad/Parts/FuelTank/fuelTankJumbo-64/model001
+	}
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch] = FSmeshSwitch
+		name:NEEDS[InterstellarFuelSwitch] = InterstellarMeshSwitch
+		objects = tank5mDefault,tank5mXCapsPipes,tank5mFairingNose;tank5mDefaultAlt,tank5mXCapsPipes,tank5mFairingNose;tank5mWhite,tank5mXCapsPipes,tank5mFairingNose;tank5mBlack,tank5mXCapsPipes,tank5mFairingNose;tank5mOrange,tank5mFairingNose;tank5mRed;tank5mBlue;tank5mGrey;tank5mStripes,tank5mXCapsPipes,tank5mFairingNose
+		objectDisplayNames = Default;Alternate;White;Black;Orange;Red;Blue;Grey;Stripes
+		affectColliders = false
+		buttonName = Next Paint Scheme
+		previousButtonName = Prev Paint Scheme
+	}
+}
+
+// Appearance switching turned off, when not available:
+
+@PART[SYengine5mR7|SYtank5mL*|SYtank5m3mAdapter|SYtank5mCone2|SYdecoupler5m|SYseparator5m]:NEEDS[!InterstellarFuelSwitch&!Firespitter]:AFTER[SpaceY-Lifters]
+{
+	node_stack_disabled = 0.0, -1000.0, 0.0, 0.0, -1.0, 0.0, 0
+
+	MODULE
+	{
+		name = ModuleJettison
+		jettisonName = xPaintSchemes
+		bottomNodeName = disabled
+		isFairing = True
+		jettisonedObjectMass = 0.1
+		jettisonForce = 0.1
+		jettisonDirection = 0 0 1
+	}
+}
+
+
+
