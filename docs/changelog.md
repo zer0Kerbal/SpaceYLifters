@@ -59,11 +59,24 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.15.1 (2017-01-03) - Compatibility Update
+## Version 1.15.0.0-release - `<Archival>`
 
+* Released
+  * on 01 Jan 2017
+  * for KSP 1.2.2
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
+
+* Compatibility Update
 * Added "NEEDS" conditionals for ConnectedLivingSpace and EngineIgnitor patches, to clean up log spam.
 * EngineIgnitor patches moved to their own file in the patches folder.
 * Added "NEEDS" conditionals for Engineering Tech Tree compatibility.
+
+* Status 1.15.1.0
+
+* Issues
+  * updates #46 - Archival Releases
+  * closes #25 - Version 1.15.1.0
+  * updated #70 - [BUG]{Archived releases} Errors corrected
 
 ---
 
