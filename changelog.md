@@ -19,6 +19,23 @@
 
 ### Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
 
+### Summary 1.9.99.0
+
+* Parts updated (and included in this (pre)release)
+  * Docking
+    * <syl-docking3m.cfg>
+    * <syl-docking5m.cfg>
+    * <syl-docking7m.cfg>
+  * Control
+    * <syl-sasR3m.cfg>
+    * <syl-sasR5m.cfg>
+  * Command
+    * <syl-probe5m.cfg>
+    * <syl-probe3m.cfg>
+  * CargoBays
+    * <syl-bay3m2m.cfg>
+    * <syl-bay5m3m.cfg>
+
 ### Archival Releases
 
 * Create
