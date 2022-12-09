@@ -138,6 +138,7 @@
   * on 08 May 2016
   * for KSP 1.1.2
   * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
+
 * Refined the primary launch clamp's internal layout, to use as a template for later projects.
 * Added basic thrust curves for SRBs. Flat profile, however thrust tapers off during last 5% of remaining propellant.
 
