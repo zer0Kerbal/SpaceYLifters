@@ -171,7 +171,14 @@
 
 ---
 
-## Version 1.12 (2016-04-10) - Tweaks
+## Version 1.12.0.0-release - `<Archival>`
+
+* Released
+  * on 10 Apr 2016
+  * for KSP 1.1.0
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
+
+### Tweaks
 
 * Added 1.25m-0.625m interstage thrust plate to the TweakScale config, and default VAB custom tab.
 * Drastically reduced career prices for fuel tanks, to bring them into line with stock again.
@@ -179,6 +186,13 @@
 * Added a 2.5m thrust plate, with 1x 1.25m and 8x 0.625m nodes (half scale version of the 5m model). 
 * Adjusted leg deployment animation to reduce the "foot teleportation" problem.
 * Increased damper ratio on the leg suspension.
+
+* Status 1.12.0.0
+
+* Issues
+  * updates #46 - Archival Releases
+  * closes #11 - Version 1.12.0.0
+  * updated #70 - [BUG]{Archived releases} Errors corrected
 
 ---
 
