@@ -124,11 +124,23 @@
 
 ---
 
-## Version 1.12.6 (2016-05-12) - Tweaks
+## Version 1.12.6.0-release - `<Archival>`
+
+* Released
+  * on 12 May 2016
+  * for KSP 1.1.2
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
 
 * Restricted liquid fuel engines, fairings, and decouplers to non-surface part testing contracts, to match SRBs.
 * Changed underlying texture for Docking port alignment lights, for compatibility with IndicatorLights.
 * Converted small lighting textures for docking ports to DDS format.
+
+* Status 1.12.6.0
+
+* Issues
+  * updates #46 - Archival Releases
+  * closes #16 - Version 1.12.6.0
+  * updated #70 - [BUG]{Archived releases} Errors corrected
 
 ---
 
@@ -138,6 +150,7 @@
   * on 08 May 2016
   * for KSP 1.1.2
   * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
+
 * Refined the primary launch clamp's internal layout, to use as a template for later projects.
 * Added basic thrust curves for SRBs. Flat profile, however thrust tapers off during last 5% of remaining propellant.
 
