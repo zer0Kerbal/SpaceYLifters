@@ -229,11 +229,23 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.11 (2016-02-28) - Tweaks
+## Version 1.11.0.0-release - `<Tweaks>`
+
+* Released
+  * on 28 Feb 2016
+  * for KSP 1.0.5
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
 
 * Adjusted the MM rule for DefaultActionGroups to tweak the descriptions in the radial reaction wheels.
 * Added 5m color-changing to the R7 engine cluster. 
 * Corrected the missing blue texture from the 3.75m tall 5m tank.
+
+* Status 1.11.0
+
+* Issues
+  * updates #46 - Archival Releases
+  * closes #5 - Version 1.11
+
 
 ---
 
@@ -675,19 +687,12 @@ CC BY-ND 4.0 by zer0Kerbal
 
 * Released
   * on 18 Feb 2015
-  * for KSP 1.0.5
   * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
 
 * Corrected several mistakes in the Community Tech Tree patch.
 * Updated the HotRockets config to have different vacuum/atmo effects.
 * Added some gimbal to the 1.875m SRBs (inspired by the Space Shuttle SRB gimbal).
 * Slightly updated the texture on the 1.875m SRBs, plus other minor fixes.
-
-* Status 1.11.0
-
-* Issues
-  * updates #46 - Archival Releases
-  * closes #5 - Version 1.11
 
 ---
 
