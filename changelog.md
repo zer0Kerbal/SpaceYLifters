@@ -108,12 +108,24 @@
 
 ---
 
-## Version 1.12.8 (2016-05-31) - Tweaks
+## Version 1.12.8.0-release - `<Archival>`
+
+* Released
+  * on 31 May 2016
+  * for KSP 1.1.2
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
 
 * Adjusted some nickname tags on engines.
 * Minor tech tree and config changes in MM patches. Partly for better compatibility with Real Scale Boosters.
 * Non-CTT tech nodes are now added, even if CommunityTechTree is installed.
 * Gigantic Rocketry node internally renamed to match CTT. May have to re-unlock if you don't use CTT.
+
+* Status 1.12.8.0
+
+* Issues
+  * updates #46 - Archival Releases
+  * closes #18 - Version 1.12.8.0
+  * updated #70 - [BUG]{Archived releases} Errors corrected
 
 ---
 
