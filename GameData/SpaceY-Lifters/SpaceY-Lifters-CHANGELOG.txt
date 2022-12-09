@@ -1,3 +1,7 @@
+1.12.5 (2016-05-08) - Tweaks.
+ - Refined the primary launch clamp's internal layout, to use as a template for later projects.
+ - Added basic thrust curves for SRBs. Flat profile, however thrust tapers off during last 5% of remaining propellant.
+
 1.12.4 (2016-05-01) - Tweaks.
  - Corrected AVC version number. DOH!
 
