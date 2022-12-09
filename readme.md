@@ -223,7 +223,7 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [BOOM]: https://forum.kerbalspaceprogram.com/index.php?/topic/192938-*/ "Kaboom (BOOM)"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells (ODFC)"
 [SYC]: https://forum.kerbalspaceprogram.com/index.php?/topic/209511-*/ "SpaceY Corporation (SYC)"
-[SYE]: https://forum.kerbalspaceprogram.com/index.php?/topic/209445-*/ "SpaceY Expanded (SYE)
+[SYE]: https://forum.kerbalspaceprogram.com/index.php?/topic/209445-*/ "SpaceY Expanded (SYE)"
 
 [avc]: https://forum.kerbalspaceprogram.com/index.php?/topic/173126-*/ "Add-on Version Checker (AVC)"
 [cls]: http://forum.kerbalspaceprogram.com/index.php?showtopic=192130-*/ "Connected Living Space (CLS)"
@@ -275,10 +275,6 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 
 [necrobones]: https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/ "NecroBones/Orvidius"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
-
-[IMG:flg:0]: https://via.placeholder.com/256x160png/ffffff/bada55?text=KGEx "Mini Sample Return Capsule Flag"
-
----
 
 #### Connect with me
 
