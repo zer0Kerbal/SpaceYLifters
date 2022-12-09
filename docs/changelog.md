@@ -115,10 +115,23 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.12.9 (2016-05-31) - Hotfix
+## Version 1.12.9.0-release - `<Archival>`
 
-* Massive Rocketry/Structure tech nodes are now set to be hidden if empty.
-* Fixed a harmless mistake in the MM patches, as part of its self cleanup.
+* Released
+  * on 31 May 2016
+  * for KSP 1.1.2
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
+
+* Hotfix
+  * Massive Rocketry/Structure tech nodes are now set to be hidden if empty.
+  * Fixed a harmless mistake in the MM patches, as part of its self cleanup.
+
+* Status 1.12.9.0
+
+* Issues
+  * updates #46 - Archival Releases
+  * closes #19 - Version 1.12.9.0
+  * updated #70 - [BUG]{Archived releases} Errors corrected
 
 ---
 
