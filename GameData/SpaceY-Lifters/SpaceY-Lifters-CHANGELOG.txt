@@ -1,3 +1,8 @@
+1.13 (2016-06-08) - Update.
+ - Adapters and Thrust Plates marked as passable for Connected Living Space so that they can be used for station construction, and docking ports, etc.
+ - Added 5m/3.75m conical payload bay.
+ - Adjusted the "hide if empty" rules for the tech nodes.
+
 1.12.9 (2016-05-31) - Hotfix.
  - Massive Rocketry/Structure tech nodes are now set to be hidden if empty.
  - Fixed a harmless mistake in the MM patches, as part of its self cleanup.
