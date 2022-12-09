@@ -1,8 +1,16 @@
+1.15 (2016-10-21) - Update.
+ - Added new RCS sounds/effects.
+ - Added a linear RCS thruster.
+ - Updated OMS engines to use new RCS sounds and effects.
+ - Added two adapters that can be used with the Rose/Rosette adapter center slots.
+ - Updated custom part category with recent additions from here and SpaceY Expanded.
+ - Added some missing search tags on thrust plates / adapters.
+
 1.14 (2016-10-12) - More KSP 1.2 Compatibility & Fixes.
  - Landing legs should now work in the Landing Gear action group automatically again.
  - 5m Fairing base null reference exception corrected, and is available again.
  - Names adjusted on some thrust plates / adapters.
- - Version changed to 1.14 to make it more clear this is a signifcant 1.2 update.
+ - Version changed to 1.14 to make it more clear this is a significant 1.2 update.
 
 1.13.2 (2016-10-10) - Basic KSP 1.2 Compatibility.
  - Added KSP 1.2 and KerbNet modules to probe cores.
