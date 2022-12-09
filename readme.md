@@ -137,7 +137,7 @@ parts, config
 
 ### Credits and Special Thanks
 
-* [[NecroBones][necrobones] for creating this glorious parts addon!
+* [NecroBones][necrobones] for creating this glorious parts addon!
 * see [Attributions][MOD:attr] for more comprehensive list
 
 ### Legal Mumbo Jumbo (License *provenance*)
