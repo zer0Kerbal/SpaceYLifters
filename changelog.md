@@ -108,7 +108,7 @@
 
 ---
 
-## Version 1.12.7.0-release - `<Archival>`
+## Version 1.12.8.0-release - `<Archival>`
 
 * Released
   * on 31 May 2016
