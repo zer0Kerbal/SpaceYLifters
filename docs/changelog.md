@@ -204,9 +204,22 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.11.4 (2016-03-31) - KSP 1.1 Hotfi
+## Version 1.11.4.0-release - `<Archival>`
 
+* Released
+  * on 31 Mar 2016
+  * for KSP 1.1.0
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
+
+* Hotfix
 * Landing leg suspension works again. Suspension is very stiff to help prevent heavy vehicles from bobbing endlessly.
+
+* Status 1.11.4.0
+
+* Issues
+  * updates #46 - Archival Releases
+  * closes #9 - Version 1.11.4.0
+  * updated #70 - [BUG]{Archived releases} Errors corrected
 
 ---
 
