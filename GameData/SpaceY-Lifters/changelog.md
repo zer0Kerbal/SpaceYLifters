@@ -203,9 +203,21 @@
 
 ---
 
-## Version 1.11.2 (2016-03-18) - HotFix
+## Version 1.11.2.0-release - `<Archival>`
+
+* Released
+  * on 18 Mar 2016
+  * for KSP 1.0.5
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
 
 * Removed duplicate "MODCAT" entry for the SpaceY Expanded custom menu tab.
+
+* Status 1.11.2.0
+
+* Issues
+  * updates #46 - Archival Releases
+  * closes #7 - Version 1.11.2.0
+  * updated #70 - [BUG]{Archived releases} Errors corrected
 
 ---
 
