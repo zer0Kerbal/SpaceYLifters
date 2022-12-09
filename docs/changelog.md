@@ -67,7 +67,12 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.15 (2016-10-21) - Update
+## Version 1.15.0.0-release - `<Archival>`
+
+* Released
+  * on 21 Oct 2016
+  * for KSP 1.2.2
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
 
 * Added new RCS sounds/effects.
 * Added a linear RCS thruster.
@@ -75,6 +80,13 @@ CC BY-ND 4.0 by zer0Kerbal
 * Added two adapters that can be used with the Rose/Rosette adapter center slots.
 * Updated custom part category with recent additions from here and SpaceY Expanded.
 * Added some missing search tags on thrust plates / adapters.
+
+* Status 1.15.0.0
+
+* Issues
+  * updates #46 - Archival Releases
+  * closes #24 - Version 1.15.0.0
+  * updated #70 - [BUG]{Archived releases} Errors corrected
 
 ---
 
