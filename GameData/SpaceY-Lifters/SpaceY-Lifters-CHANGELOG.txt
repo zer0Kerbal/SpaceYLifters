@@ -1,3 +1,8 @@
+1.11.5 (2016-04-05) - Tweaks.
+ - Moved conical payload bay to Specialized Construction tech node.
+ - Added a 1.25m-0.625m interstage thrust plate.
+ - Softened leg suspension spring.
+
 1.11.4 (2016-03-31) - KSP 1.1 Hotfix
  - Landing leg suspension works again. Suspension is very stiff to help prevent heavy vehicles from bobbing endlessly.
 
