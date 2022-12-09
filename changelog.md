@@ -50,6 +50,14 @@
   * closes #46 - Archival Releases
   * closes #70 - [BUG]{Archived releases} Errors corrected
 
+* convert to .ogg
+  * <srb_loop.wav> 1.507mb --> 116kb
+  * <sls_loop_blend.wav> 1.507mb --> 499kb
+  * <sls_loop_deep.wav> 1.507mb --> 319kb
+  * <sls_loop_high.wav> 428kb --> 386kb
+  * <sls_start.wav> 316kb  --> 99kb
+  * <srb_heavy_loop.wav> 316kb --> 126kb
+5.44mb --> 1.5mb
 
   * closes #68 - Part Localization
   * closes #51 - English <us-en.cfg>
