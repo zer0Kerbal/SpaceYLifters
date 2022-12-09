@@ -1,3 +1,7 @@
+1.12.7 (2016-05-18) - Tweaks.
+ - Added configs for docking ports to use IndicatorLights, if installed.
+ - Reworked docking alignment lights to be slightly prettier when turned off, or dim, etc.
+
 1.12.6 (2016-05-12) - Tweaks.
  - Restricted liquid fuel engines, fairings, and decouplers to non-surface part testing contracts, to match SRBs.
  - Changed underlying texture for Docking port alignment lights, for compatibility with IndicatorLights.
