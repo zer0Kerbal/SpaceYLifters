@@ -1,3 +1,11 @@
+1.12.4 (2016-05-01) - Tweaks.
+ - Corrected AVC version number. DOH!
+
+1.12.3 (2016-05-01) - Tweaks.
+ - Updated Probe cores and reaction wheels to use IndicatorLights if available.
+ - Probe cores now also have a toggle option for light-up labels that correspond to the indicator lights.
+ - Corrected a missing texture placeholder for the 3.75m stack separator.
+
 1.12.2 (2016-04-25) - Tweaks.
  - More search keywords on engines.
  - Added colliders setting for procedural fairing base.
