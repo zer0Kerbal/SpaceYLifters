@@ -97,7 +97,12 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.13.1 (2016-08-01) - Tweaks
+## Version 1.13.1.0-release - `<Archival>`
+
+* Released
+  * on 01 Aug 2016
+  * for KSP 1.1.3
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
 
 * Icon-only shroud added to fairing base, for easy identification in menu.
 * 5m conical bay added to custom parts tab.
@@ -105,9 +110,16 @@ CC BY-ND 4.0 by zer0Kerbal
 * Deadly Reentry patch file renamed to sort properly in the folder.
 * Added a compatibility exclusion for HPTechTree.
 
+* Status 1.13.1.0
+
+* Issues
+  * updates #46 - Archival Releases
+  * closes #21 - Version 1.13.1.0
+  * updated #70 - [BUG]{Archived releases} Errors corrected
+
 ---
 
-## Version 1.12.9.0-release - `<Archival>`
+## Version 1.13.0.0-release - `<Archival>`
 
 * Released
   * on 08 Jun 2016

@@ -1,3 +1,10 @@
+1.13.1 (2016-08-01) - Tweaks.
+ - Icon-only shroud added to fairing base, for easy identification in menu.
+ - 5m conical bay added to custom parts tab.
+ - Added MM "NEEDS" conditionals to RemoteTech modules in probe cores, and moved to separate patch file.
+ - Deadly Reentry patch file renamed to sort properly in the folder.
+ - Added a compatibility exclusion for HPTechTree.
+
 1.13 (2016-06-08) - Update.
  - Adapters and Thrust Plates marked as passable for Connected Living Space so that they can be used for station construction, and docking ports, etc.
  - Added 5m/3.75m conical payload bay.
