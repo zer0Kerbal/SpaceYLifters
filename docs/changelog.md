@@ -210,10 +210,25 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.11.3 (2016-03-29) - KSP 1.1 Hotfi
+## Version 1.11.3.0-release - `<Archival>`
+
+* Released
+  * on 29 Mar 2016
+  * for KSP 1.1.0
+  * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
+
+* KSP 1.1.0
+* Hotfix
 
 * Landing legs updated to not be 100% deadly. Suspension still doesn't work, legs are rigid for now.
 * Added menu search tags.
+
+* Status 1.11.3.0
+
+* Issues
+  * updates #46 - Archival Releases
+  * closes #8 - Version 1.11.3.0
+  * updated #70 - [BUG]{Archived releases} Errors corrected
 
 ---
 
