@@ -11,7 +11,7 @@ updated: 04 Oct 2022 -->
 
 # SpaceY Lifters (SYL)
 
-Parts for large lifting rockets, 5m rocket parts and large SRBs, and matching decouplers for Kerbal Space Program.
+Parts for large lifting rockets, 5m rocket parts, large SRBs, and matching decouplers for Kerbal Space Program.
 
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by  [`NecroBones`][necrobones]
@@ -64,7 +64,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### YouTube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
 
-[![KSP Mods - SpaceY Heavy Lifter](https://img.youtube.com/vi/8jn7dBEVwtg/0.jpg)](https://www.youtube.com/watch?v=8jn7dBEVwtg)
+[![KSP Mods - SpaceY Heavy Lifter](https://img.youtube.com/vi/8jn7dBEVwtg/0.jpg)](https://youtu.be/8jn7dBEVwtg)
 
 ### Help Wanted
 
