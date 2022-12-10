@@ -26,7 +26,7 @@
 * Phase I (initial) pass
   * parts pass started
 * <ghostparts.cfg> is provided for testing. This file will not be active for v2.0.0.0-release.
-* Can now search for `syl` or `km` in the editor search bar to find all parts in this pack.
+* Can now search for `syl` or `spacey` in the editor search bar to find all parts in this pack.
 * Only updated parts are included
 * Parts updated (and included in this (pre)release)
   * Docking
@@ -72,7 +72,6 @@
   * 1.11.0.0-release `<Archival>`
   * 1.10.0.0-release `<Archival>`
   * closes #46 - Archival Releases
-  * closes #70 - [BUG]{Archived releases} Errors corrected
 
 ### Parts 1.9.99.0
 
@@ -89,6 +88,31 @@
   * Agency
   * Flags
   * <themes.cfg> v2.0.0.0
+* Errors
+  * Parts
+    * Structural
+      * <SYadapter5x4/part.cfg>
+    * SRBs
+      * <SYSRB_Radial/SYSRBradial01.cfg>
+        * missing //
+      * <SYSRB_0625/SYSRB_0625L9.cfg>
+        * >=1.4.5 replace scale with localScale
+      * <SYSRB_0625/SYSRB_0625L6R.cfg>
+        * >=1.4.5 replace scale with localScale
+      * <SYSRB_0625/SYSRB_0625L5.cfg>
+        * >=1.4.5 replace scale with localScale
+  * Patches
+    * <SpaceY-DeadlyReentry.cfg>
+      * missing `MODULE`
+    * <SpaceY_HotRockets.cfg>
+    * <SpaceY_HeatAnimation.cfg>
+    * <SpaceY_ATM.cfg>
+      * deactivated (no longer needed)
+    * <SpaceY_ColorChange5m.cfg>
+      * missing `=` after [displayName]
+    * <SpaceY_HotRockets.cfg>
+      * missing multiple (9) brace sets `{}`
+  * closes #70 - [BUG]{Archived releases} Errors corrected
 
 ### Asset 1.9.99.0
 
@@ -128,6 +152,7 @@
   * [Notices.md] v1.0.1.0
   * [Part-Catalog.md] v1.1.4.1
   * [Why.md] v1.1.0.0
+* Add docs/thumbs
 * closes #44 - Create GitHub Pages
 
 ### Localization 1.9.99.0
@@ -146,11 +171,6 @@
 * updates #50 - Localization - Master
 * updates #51 - English <us-en.cfg>
 * updates #68 - Part Localization
-
-### Thumbnails 1.9.99.0
-
-* Add
-  * add @thumbs
 
 ### Cover image 1.9.99.0
 
