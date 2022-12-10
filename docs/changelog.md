@@ -5,10 +5,9 @@ description: The Opening Credits, and the closing credits, plus the first of two
 # layout: bare
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!-- 
 hdr-changelog.md v1.0.0.0
-<MOD-NAME>
+SpaceY Lifters (SYL) 
 created: 13 May 2022
 updated:
 CC BY-ND 4.0 by zer0Kerbal
@@ -24,6 +23,182 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/88)                                   |
 | ckan       | SpaceY-Lifters                                                    |
 
+## Version 1.9.99.0-adoption - `<Thank you NecroBones>`
+
+* Released
+  * on 10 Dec 2022
+  * for KSP 1.12.4
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 1.9.99.0
+
+* Adoption by zer0Kerbal
+* This is the first in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
+* Phase I (initial) pass
+  * parts pass started
+* <ghostparts.cfg> is provided for testing. This file will not be active for v2.0.0.0-release.
+* Can now search for `syl` or `spacey` in the editor search bar to find all parts in this pack.
+* Only updated parts are included
+* Parts updated (and included in this (pre)release)
+  * Docking
+    * syl-docking3m
+    * syl-docking5m>
+    * syl-docking7m>
+  * Control
+    * syl-sasR3m
+    * syl-sasR5m
+  * Command
+    * syl-probe5m
+    * syl-probe3m
+  * CargoBays
+    * syl-bay3m2m
+    * syl-bay5m3m
+
+### Previous Releases (Archive)
+
+* Create
+  * 1.17.1.0-release `<Archival>`
+  * 1.17.0.0-release `<Archival>`
+  * 1.16.0.0-release `<Archival>`
+  * 1.15.1.0-release `<Archival>`
+  * 1.15.0.0-release `<Archival>`
+  * 1.14.0.0-release `<Archival>`
+  * 1.13.2.0-release `<Archival>`
+  * 1.13.1.0-release `<Archival>`
+  * 1.13.0.0-release `<Archival>`
+  * 1.12.9.0-release `<Archival>`
+  * 1.12.8.0-release `<Archival>`
+  * 1.12.7.0-release `<Archival>`
+  * 1.12.6.0-release `<Archival>`
+  * 1.12.5.0-release `<Archival>`
+  * 1.12.4.0-release `<Archival>`
+  * 1.12.2.0-release `<Archival>`
+  * 1.12.1.0-release `<Archival>`
+  * 1.12.0.0-release `<Archival>`
+  * 1.11.5.0-release `<Archival>`
+  * 1.11.4.0-release `<Archival>`
+  * 1.11.3.0-release `<Archival>`
+  * 1.11.2.0-release `<Archival>`
+  * 1.11.1.0-release `<Archival>`
+  * 1.11.0.0-release `<Archival>`
+  * 1.10.0.0-release `<Archival>`
+  * closes #46 - Archival Releases
+
+### Parts 1.9.99.0
+
+* Add
+  * <ghostParts.cfg> v1.3.0.0
+* Rename
+  * parts to match naming scheme
+    * replace `SY` with `syl-`
+  * part files to match part names
+* Fix
+* Lint
+* Reformat
+* moved to SpaceY Corp
+  * Agency
+  * Flags
+  * <themes.cfg> v2.0.0.0
+* Errors
+  * Parts
+    * Structural
+      * <SYadapter5x4/part.cfg>
+    * SRBs
+      * <SYSRB_Radial/SYSRBradial01.cfg>
+        * missing //
+      * <SYSRB_0625/SYSRB_0625L9.cfg>
+        * >=1.4.5 replace scale with localScale
+      * <SYSRB_0625/SYSRB_0625L6R.cfg>
+        * >=1.4.5 replace scale with localScale
+      * <SYSRB_0625/SYSRB_0625L5.cfg>
+        * >=1.4.5 replace scale with localScale
+  * Patches
+    * <SpaceY-DeadlyReentry.cfg>
+      * missing `MODULE`
+    * <SpaceY_HotRockets.cfg>
+    * <SpaceY_HeatAnimation.cfg>
+    * <SpaceY_ATM.cfg>
+      * deactivated (no longer needed)
+    * <SpaceY_ColorChange5m.cfg>
+      * missing `=` after [displayName]
+    * <SpaceY_HotRockets.cfg>
+      * missing multiple (9) brace sets `{}`
+  * closes #70 - [BUG]{Archived releases} Errors corrected
+
+### Asset 1.9.99.0
+
+* create Assets/ folder
+* convert
+  * from mesh to MODEL
+* rename
+  * Rename model files to unique names
+  * textures to unique names
+* update
+  * model pointers (.png et al to .dds)
+  * model texture pointers to new names
+* relocate assets to Assets/
+* eliminate
+  * remove duplicates textures/models
+* relocate part.cfg to Parts/
+* convert to .ogg
+  * <srb_loop.wav> 1.507mb --> 116kb
+  * <sls_loop_blend.wav> 1.507mb --> 499kb
+  * <sls_loop_deep.wav> 1.507mb --> 319kb
+  * <sls_loop_high.wav> 428kb --> 386kb
+  * <sls_start.wav> 316kb  --> 99kb
+  * <srb_heavy_loop.wav> 316kb --> 126kb
+  * 5.44mb --> 1.5mb
+* updates #48 - Part Asset Updates
+
+### docs/ 1.9.99.0
+
+* Add
+  * [`_config.yml`]
+  * [Attribution.md] v1.0.7.1
+  * [ManualInstallation.md] v1.1.8.0
+  * [404.md] v1.0.3.2
+  * [LegalMumboJumbo.md] v1.0.5.1
+  * [Localizations.md] v1.1.7.0
+  * [Marketing.md] v1.0.1.0
+  * [Notices.md] v1.0.1.0
+  * [Part-Catalog.md] v1.1.4.1
+  * [Why.md] v1.1.0.0
+* Add docs/thumbs
+* closes #44 - Create GitHub Pages
+
+### Localization 1.9.99.0
+
+* Create
+  * Localization/
+    * <en-us.cfg> v1.0.0.0
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
+* Create
+  * [SpaceYLifters.cfg] v1.0.1.0
+    * adds localized tags to parts
+    * fix inadvertant passengers
+* closes #47 - Create Localization directory and contents
+* closes #49 - Create <SpaceYLifters.cfg>
+* updates #50 - Localization - Master
+* updates #51 - English <us-en.cfg>
+* updates #68 - Part Localization
+
+### Cover image 1.9.99.0
+
+* closes #45 - Create HeroLogo.png
+
+### Status
+
+* Issues
+  * closes #40 - SpaceYLifters (SYL) 1.9.99.0-adoption `<Thank you NecroBones>` edition
+  * closes #41 - 1.1.99.0 Create Legal Mumbo Jumbo
+  * closes #42 - 1.1.99.0 Create Documentation
+  * closes #43 - 1.1.99.0 Create Social Media Presence
+
+---
+
 ## Version 1.17.2.0-release - `<Archival>`
 
 * Released
@@ -33,7 +208,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 * Re-upload
 
-### Status
+### Status 1.17.2.0
 
 * Issues
   * closes #29 - Version 1.17.2
@@ -103,7 +278,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.15.0.0-release - `<Archival>`
+## Version 1.15.1.0-release - `<Archival>`
 
 * Released
   * on 01 Jan 2017

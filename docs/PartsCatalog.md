@@ -19,20 +19,47 @@ updated: 15 May 2022 -->
 
 ## Parts Catalog
 
-This add-on adds nine (9) resource parts
+This add-on adds MANY large rocket parts
+
+* [Petal Bays][#petal-bays]
+* [Docking Ports][#docking-ports]
+* [Probe Cores][#probe-cores]
+* [SAS][#sas]
+
+### Petal Bays
+
+* 3m x 2m Bay
+* 5m x 3m Bay
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYLifters/master/docs/thumbs/syl-bay3m2m_icon.png" alt="3m x 2m Bay" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYLifters/master/docs/thumbs/syl-bay5m3m_icon.png" alt="5m x 3m Bay" width="25%" height="25%" />
+
+[top](#parts-catalog)
+
+### Docking Ports
+
+* 3m, 5m, 7m
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYLifters/master/docs/thumbs/syl-docking3m_icon.png" alt="3m Docking" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYLifters/master/docs/thumbs/syl-docking5m_icon.png" alt="5m Docking" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYLifters/master/docs/thumbs/syl-docking7m_icon.png" alt="7m Docking" width="25%" height="25%" />
+
+[top](#parts-catalog)
+
+### Probe Cores
+
+* 3m, 5m
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYLifters/master/docs/thumbs/syl-probe3m_icon.png" alt="3m Probe" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYLifters/master/docs/thumbs/syl-probe5m_icon.png" alt="5m Probe" width="25%" height="25%" />
+
+[top](#parts-catalog)
+
+### SAS
+
+* Semi-circle SAS (apply as pair)
+  * R3m and R5m
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYLifters/master/docs/thumbs/syl-sasR3m_icon.png" alt="R3m SAS" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYLifters/master/docs/thumbs/syl-sasR5m_icon.png" alt="R5m SAS" width="25%" height="25%" />
 
 ---
 
-* Mallet *(Only with Kerbal Inventory System installed)*
-* SurveyStake
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/MOD-NAME/master/GameData/MOD-NAME/Parts/%40thumbs/ElMallet_icon.png" alt="Mallet" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/MOD-NAME/master/GameData/MOD-NAME/Parts/%40thumbs/ELSurveyStake_icon.png" alt="SurveyStake" width="25%" height="25%" />
-
-* MicroPad
-* OrbitalDock
-
----
-
-[top](#Parts-Catalog)
+[top](#parts-catalog)
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
