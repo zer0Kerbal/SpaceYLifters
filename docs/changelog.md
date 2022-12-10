@@ -208,7 +208,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 * Re-upload
 
-### Status
+### Status 1.17.2.0
 
 * Issues
   * closes #29 - Version 1.17.2
@@ -278,7 +278,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.15.0.0-release - `<Archival>`
+## Version 1.15.1.0-release - `<Archival>`
 
 * Released
   * on 01 Jan 2017
