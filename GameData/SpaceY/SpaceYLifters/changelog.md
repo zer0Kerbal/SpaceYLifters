@@ -26,20 +26,6 @@
 * Can now search for `syl` or `spacey` in the editor search bar to find all parts in this pack.
 * Only updated parts are included
 * Parts updated (and included in this (pre)release)
-  * Docking
-    * syl-docking3m
-    * syl-docking5m
-    * syl-docking7m
-  * Control
-    * syl-sasR3m
-    * syl-sasR5m
-  * Command
-    * syl-probe5m
-    * syl-probe3m
-  * CargoBays
-    * syl-bay3m2m
-    * syl-bay5m3m
-
   * HeatShield
     * SYheatShield5m
   * Decouplers
@@ -61,7 +47,9 @@
   * updates #50 - Localization - Master
   * updates #51 - English <us-en.cfg>
   * updates #68 - Part Localization
-  * closes #101 - [Log ERR] PartLoader: Compiling Part
+  * updates #101 - [Log ERR] PartLoader: Compiling Part
+
+---
 
 ## Version 1.9.99.0-adoption - `<Thank you NecroBones>`
 
