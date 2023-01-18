@@ -10,6 +10,59 @@
 | spacedock  | (https://spacedock.info/mod/88)                                   |
 | ckan       | SpaceY-Lifters                                                    |
 
+## Version 1.9.99.1-prerelease - `<Thank you NecroBones>` edition
+
+* Released
+  * 17 Jan 2023
+  * for KSP 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 1.9.99.1
+
+* This is the first in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
+* Phase I (initial) pass
+  * parts pass started (see 1.9.99.0 for more details)
+* <ghostparts.cfg> is provided for testing. This file will not be active for v2.0.0.0-release.
+* Can now search for `syl` or `spacey` in the editor search bar to find all parts in this pack.
+* Only updated parts are included
+* Parts updated (and included in this (pre)release)
+  * Docking
+    * syl-docking3m
+    * syl-docking5m
+    * syl-docking7m
+  * Control
+    * syl-sasR3m
+    * syl-sasR5m
+  * Command
+    * syl-probe5m
+    * syl-probe3m
+  * CargoBays
+    * syl-bay3m2m
+    * syl-bay5m3m
+
+  * HeatShield
+    * SYheatShield5m
+  * Decouplers
+    * SYdecouplerRadial2
+    * SYseparator3m
+    * SYseparator5m
+    * SYdecoupler5m
+    * SYdecouplerRadial1
+  * Fairings
+    * SYfairingBase5mP
+
+### Status
+
+* Issues
+
+  * closes #99 - SpaceY Lifters (SYL) 1.9.99.1-prerelease `<Thank you NecroBones>` edition
+  * closes #100 - 1.9.99.1 Additional Tasks
+  * updates #48 - Part Asset Updates
+  * updates #50 - Localization - Master
+  * updates #51 - English <us-en.cfg>
+  * updates #68 - Part Localization
+  * closes #101 - [Log ERR] PartLoader: Compiling Part
+
 ## Version 1.9.99.0-adoption - `<Thank you NecroBones>`
 
 * Released
