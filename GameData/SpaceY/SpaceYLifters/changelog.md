@@ -55,7 +55,13 @@
 
 * Issues
 
----
+  * closes #99 - SpaceY Lifters (SYL) 1.9.99.1-prerelease `<Thank you NecroBones>` edition
+  * closes #100 - 1.9.99.1 Additional Tasks
+  * updates #48 - Part Asset Updates
+  * updates #50 - Localization - Master
+  * updates #51 - English <us-en.cfg>
+  * updates #68 - Part Localization
+  * closes #101 - [Log ERR] PartLoader: Compiling Part
 
 ## Version 1.9.99.0-adoption - `<Thank you NecroBones>`
 
