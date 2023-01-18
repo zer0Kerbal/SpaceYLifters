@@ -51,7 +51,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 ```markdown
 <KSP_ROOT>
   + [GameData]
-    + [NecroBones]
+    + [SpaceY]
       + [SpaceY Corporation (SYC)][SYC]
         ...
       + [SpaceYLifters][SYL]
@@ -65,11 +65,11 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
           ...
         + [Parts]
           ...
+          ManualInstallation.htm
         * #.#.#.#.htm
         * Attributions.htm
         * CC-BY-NC-SA-4.0.txt
         * changelog.md
-          ManualInstallation.htm
         * readme.htm
         * SpaceYLifters.version
         ...
