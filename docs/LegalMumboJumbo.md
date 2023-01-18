@@ -4,7 +4,6 @@ title: Legal Mumbo Jumbo
 description: when the revolution comes, .... Legal Mumbo Jumbo (Douglas Adams)
 tags: legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!--
 LegalMumboJumbo.md v1.0.5.1
 SpaceY Lifters (SYL)
@@ -23,23 +22,23 @@ updated: 15 May 2022
 
 * Table of Contents
   * [License](#License)
-  * [Forum Post #1](#Forum-I)
-  * [Forum Post #2](#Forum-II)
+  * [Forum Post #1](#forum-i)
+  * [Forum Post #2](#forum-ii)
 
 ### License
 
 [License](./LegalMumboJumbo/License.md)
-[top](#Legal-Mumbo-Jumbo)
+[top](#legal-mumbo-jumbo)
 
 ### Forum I
 
 ![Forum](./LegalMumboJumbo/FORUM-01.png)
-[top](#Legal-Mumbo-Jumbo)
+[top](#legal-mumbo-jumbo)
 
 ### Forum II
 
 ![Forum](./LegalMumboJumbo/FORUM-02.png)
-[top](#Legal-Mumbo-Jumbo)
+[top](#legal-mumbo-jumbo)
 
 ---
 
