@@ -121,9 +121,6 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
   * [Fuel Tanks Plus IS (FTPIS)][FTPIS]
 * [NecroBones][necrobones] suite of mods that play nicely together
   * [Lithobrake Exploration Technologies (LET)][LET] lander parts, large chutes/legs/ladders/etc
-  * [SpaceY Corporation (SYC)][SYC] 
-    * [SpaceY Lifters (SYL)][SYL] stock-balanced large rocket parts, 5m parts, large SRBs
-    * [SpaceY Expanded (SYE)][SYE]
   * [The Burger Mod (BURG)][BURG]
   * [Joolian Discovery (JOOL)][JOOL]
   * [The Elephant Engine (ELEP)][ELEP]
