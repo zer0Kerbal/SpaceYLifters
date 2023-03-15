@@ -189,7 +189,7 @@ parts, config
 > ***Completely voluntary, absolutely amazing, and really does help me out a lot!***  
 > quote from <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/32393-*/"><img border="0" alt="cybutek" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2020_06/kappa-kerbal-anarchy.thumb.png.673a2f6f7b36cc60a35c24efef217246.png" width="25px" height="25px"> cybutek</a> creator of <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/17833-130-*/" alt="Kerbal Engineer Redux (KER)"> Kerbal Engineer</a>
 
-[![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url]
+[![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
 
 *and it is true.*
 
@@ -264,8 +264,7 @@ Facility (FTF)"
 [MRS]: https://www.curseforge.com/kerbal/ksp-mods/modularrocketsystems "Modular Rocket Systems (MRS)"
 [MRSL]: https://www.curseforge.com/kerbal/ksp-mods/modularrocketsystemslite "Modular Rocket Systems LITE (MRSL)"
 [SYC]: https://forum.kerbalspaceprogram.com/index.php?/topic/209511-*/ "SpaceY Corporation (SYC)"
-[SYE]: https://forum.kerbalspaceprogram.com/index.php?/topic/209445-*/ "SpaceY Expanded (SYE)"
-[SYL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209445-*/ "SpaceY Lifters (SYL)"
+[SYE]: https://forum.kerbalspaceprogram.com/index.php?/topic/211576-*/ "SpaceY Expanded (SYE)"
 
 [FTPL]: https://forum.kerbalspaceprogram.com/threads/209628-*/ "Fuel Tanks Plus Ltd"
 [FTP]: https://forum.kerbalspaceprogram.com/index.php?/topic/207702-*/ "Fuel Tanks Plus (FTP)"
@@ -290,6 +289,7 @@ Facility (FTF)"
 [PATREON:url]: https://www.patreon.com/bePatron?u=23390503/ "Patreon"
 [GSPONS:img]: https://img.shields.io/badge/Github%20-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors/ "Github Sponsors"
 [GSPONS:url]: https://github.com/sponsors/zer0Kerbal/ "Github Sponsors"
+[BMCC:img]: https://img.shields.io/badge/Buy%20Me%20a%20-Snack!-FFDD00?style=for-the-badge&logo=buymeacoffee/ "Buy Me A Snack"
 [BMCC:url]: https://buymeacoffee.com/zer0Kerbal/ "Buy Me A Snack"
 
 <!-- Localization -->
