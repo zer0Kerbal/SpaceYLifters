@@ -33,35 +33,35 @@ based upon work by LisiasT -->
 ### Resource Flow
 
 ![Resource Flow Graph](https://i.postimg.cc/QNqdw7wp/Simple-Construction-resource-Flow.png)
-[top](#Table-of-Contents)
+[top](#table-of-contents)
 
 ### Mining Ore
 
 First mine the ore *(after you find it)*
 
 ![Mining Ore][IMG:hero:2a]
-[top](#Table-of-Contents)
+[top](#table-of-contents)
 
 ### Refining Ore to Metal
 
 Then refine the ore into metal
 
 ![Refining Ore to Metal][IMG:hero:2b]
-[top](#Table-of-Contents)
+[top](#table-of-contents)
 
 ### Printing Rocketparts from Metal
 
 Then using the MPL Science lab, print Rocket Parts
 
 ![Printing Rocketparts from Metal][IMG:hero:2c]
-[top](#Table-of-Contents)
+[top](#table-of-contents)
 
 ### Building Rockets
 
 Then using a command pod and a docking port, build a new vessel or subassembly or even just a part
 
 ![Building Rockets][IMG:hero:2d]
-[top](#Table-of-Contents)
+[top](#table-of-contents)
 
 ### Finalize build
 
@@ -70,7 +70,7 @@ Finalize your build and load up the resources, and
 *PROFIT!*
 
 ![Finalize build!][IMG:hero:2e]
-[top](#Table-of-Contents))
+[top](#table-of-contents))
 
 [IMG:hero:2a]: https://i.imgur.com/zqg2qcv.png "Mining Ore"
 [IMG:hero:2b]: https://i.imgur.com/R6IYn5V.png "Refining Ore to Metal"
@@ -78,4 +78,4 @@ Finalize your build and load up the resources, and
 [IMG:hero:2d]: https://i.imgur.com/6v9gwma.png "Building Rockets"
 [IMG:hero:2e]: https://i.imgur.com/nmq46HA.png "Finalize build!"
 
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
