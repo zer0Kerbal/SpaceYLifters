@@ -37,6 +37,11 @@
   * ghostparts.cfg v1.1.0.0
   * SpaceYLifters.cfg v1.0.1.0
 
+orange-jumbo-O.dds 1kb
+orange-jumbo-l.dds 1kb
+SYtank5m2-Specular.dds 1kb
+SYtank5m-Specular.dds 1kb
+SYtank7m-Specular.dds 1kb
 
 ---
 
