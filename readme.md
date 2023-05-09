@@ -14,7 +14,9 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url]
 [![Pages][SHD:pgs]][pages]
 
-#@ [SpaceY Lifters (SYL)][forum]
+![Code][SHD:cde] ![SpaceY.Lifters.dll][SHD:dll]
+
+# [SpaceY Lifters (SYL)][forum]
 
 Parts for large lifting rockets, 5m rocket parts, large SRBs, and matching decouplers for Kerbal Space Program.
 
@@ -64,8 +66,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >* [Known Issues][issue] for more details of feature requests and known issues
 >* [Marketing Slicks][markt]
 >* [Parts Catalog][parts] for part pictures
-
-
 
 <details>
   <summary><img src="https://cdn.pixabay.com/photo/2014/05/14/14/17/youtube-344106_960_720.png" alt="Youtube logo" height="33px" width="66px"></summary>
@@ -226,6 +226,8 @@ Comment, click, like, share, up-vote, subscribe
 [parts]: https://zer0kerbal.github.io/SpaceYLifters/PartsCatalog "Parts Catalog"
 
 <!--- shields -->
+[SHD:cde]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MOD-NAME/master/json/code.json
+[SHD:dll]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MOD-NAME/master/json/dll.json
 [SHD:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYLifters/master/json/mod.json
 [SHD:pgs]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
