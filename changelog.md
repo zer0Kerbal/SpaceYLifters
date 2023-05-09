@@ -31,6 +31,9 @@
     * [SpaceY Corporation (SYC)](https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorporation)
   * This is the next prerelease in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
   * search for `syl` or `spacey` in the editor search bar to find all parts in this pack.
+
+
+
   * <ghostparts.cfg> is provided for testing. This file will not be active for v2.0.0.0-release.
 
 * Update
