@@ -26,25 +26,25 @@ You should be all good! (check for latest version on CurseForge)
 
 ### If Downloaded from CurseForge/OverWolf manual download
 
-To install, place the `NecroBones` folder inside your Kerbal Space Program's GameData folder:
+To install, place the `SpaceY` folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/NecroBones/SpaceYLifters`
-* Extract the package's `NecroBones` folder into your KSP's GameData folder as follows:
-  * `<PACKAGE>/NecroBones/` --> `<KSP_ROOT>/GameData`
+  * Delete `<KSP_ROOT>/GameData/SpaceY/SpaceYLifters`
+* Extract the package's `SpaceY` folder into your KSP's GameData folder as follows:
+  * `<PACKAGE>/SpaceY/` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/NecroBones/SpaceYLifters`
+  * you should end up with `<KSP_ROOT>/GameData/SpaceY/SpaceYLifters`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
 To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/NecroBones/SpaceYLifters`
+  * Delete `<KSP_ROOT>/GameData/SpaceY/SpaceYLifters`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
-  * you should end up with `<KSP_ROOT>/GameData/NecroBones/SpaceYLifters`
+  * you should end up with `<KSP_ROOT>/GameData/SpaceY/SpaceYLifters`
 
 ## The following file layout must be present after installation
 
@@ -65,11 +65,11 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
           ...
         + [Parts]
           ...
-          ManualInstallation.htm
         * #.#.#.#.htm
         * Attributions.htm
         * CC-BY-NC-SA-4.0.txt
         * changelog.md
+        * ManualInstallation.htm
         * readme.htm
         * SpaceYLifters.version
         ...

@@ -217,7 +217,7 @@
 
 * closes #45 - Create HeroLogo.png
 
-### Status
+### Status 1.9.99.0
 
 * Issues
   * closes #40 - SpaceYLifters (SYL) 1.9.99.0-adoption `<Thank you NecroBones>` edition
