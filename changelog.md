@@ -10,6 +10,9 @@
 | spacedock  | (https://spacedock.info/mod/88)                                   |
 | ckan       | SpaceY-Lifters                                                    |
 
+* [SpaceY.Lifters.dll] v1.9.99.2
+
+SpaceYCorporation
 ## Version 1.9.99.1-prerelease - `<Thank you NecroBones>` edition
 
 * Released
