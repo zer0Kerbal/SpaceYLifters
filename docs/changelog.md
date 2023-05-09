@@ -2,7 +2,6 @@
 permalink: /Changelog.html
 title: The Change Log
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
-# layout: bare
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- 
@@ -11,7 +10,8 @@ SpaceY Lifters (SYL)
 created: 13 May 2022
 updated:
 CC BY-ND 4.0 by zer0Kerbal
---># Changelog  
+-->
+# Changelog  
   
 | modName    | SpaceY Lifters (SYL)                                              |
 | ---------- | ----------------------------------------------------------------- |
@@ -230,7 +230,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 * closes #45 - Create HeroLogo.png
 
-### Status
+### Status 1.9.99.0
 
 * Issues
   * closes #40 - SpaceYLifters (SYL) 1.9.99.0-adoption `<Thank you NecroBones>` edition
