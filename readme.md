@@ -207,8 +207,6 @@ parts, config
 
 Comment, click, like, share, up-vote, subscribe
 
-[![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
-
 > ***Completely voluntary, absolutely amazing, and really does help out a lot!***  
 > *and it is true.*
 
@@ -242,6 +240,9 @@ Comment, click, like, share, up-vote, subscribe
 [LIC:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
 [LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYLifters/master/json/license.json "CC BY-NC-SA 4.0"
 [LIC:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
+
+[LIC:sp:url]: https://en.wikipedia.org/wiki/All_rights_reserved "All Rights Reserved"
+[LIC:sp:shd]: https://img.shields.io/badge/License-All%20Rights%20Reserved-white?labelColor=black&style=plastic "All Rights Reserved"
 
 <!--- release links -->
 [CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/SpaceYLifters "Curseforge"
