@@ -10,6 +10,190 @@
 | spacedock  | (https://spacedock.info/mod/88)                                   |
 | ckan       | SpaceY-Lifters                                                    |
 
+## Version 1.9.99.2-prerelease - `<Thank you NecroBones>` edition
+
+* Released
+  * 09 May 2023
+  * for KSP 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* 78/78 parts are now included
+  * parts are fully localized (English) included actions
+  * Phase I,II,III passes completed
+    * parts pass started (see 1.9.99.0 for more details)
+    * DRAG_CUBES, cargo, node, tags pass yet to complete
+  * Parts updated (and included in this (pre)release)
+    * CargoBays
+    * Command
+    * Control
+    * Decouplers
+    * Docking
+    * Engines
+    * Fairings
+    * FuelTanks
+    * Ground
+    * HeatShield
+    * RCS-OMS
+    * Solid Rocket Boosters
+    * Structural
+    * ThrustPlates
+* NEW - Category fix [SpaceY.Lifters.dll] v1.9.99.2 - thank you [Lisias](https://github.com/Lisias)
+* Compatibility patches have been updated, not tested.
+
+* 📌 Pinned
+  * Dependencies:
+    * [SpaceY Corporation (SYC)](https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorporation)
+  * This is the next prerelease in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
+  * search for `syl` or `spacey` in the editor search bar to find all parts in this pack.
+  * <ghostparts.cfg> is provided for testing. This file will not be active for v2.0.0.0-release.
+
+### Changes 1.9.99.2
+
+### Update 1.9.99.2
+
+* Parts
+  * Engines
+    * [syl-eng-125-K1.cfg]
+    * [syl-eng-250-M1.cfg]
+    * [syl-eng-250-R1.cfg]
+    * [syl-eng-500-M5.cfg]
+    * [syl-eng-500-M9.cfg]
+    * [syl-eng-500-R5.cfg]
+    * [syl-eng-500-R7.cfg]
+  * FuelTanks
+    * [syl-tank-375-cone-2.cfg]
+    * [syl-tank-375-cone.cfg]
+    * [syl-tank-500-adapt-375.cfg]
+    * [syl-tank-500-cone-2.cfg]
+    * [syl-tank-500-L1125.cfg]
+    * [syl-tank-500-L1500.cfg]
+    * [syl-tank-500-L1875.cfg]
+    * [syl-tank-500-L375.cfg]
+    * [syl-tank-500-L750.cfg]
+  * Ground
+    * [syl-clamp-1.cfg]
+    * [syl-clamp-2.cfg]
+    * [syl-leg-1.cfg]
+    * [syl-leg-2.cfg]
+  * RCS-OMS
+    * [syl-rcs-1.cfg]
+    * [syl-rcs-2.cfg]
+    * [syl-rcs-oms-1.cfg]
+    * [syl-rcs-oms-2.cfg]
+  * SRB
+    * [syl-ejectatron.cfg]
+    * [syl-srb-0625-1R.cfg]
+    * [syl-srb-0625-5S.cfg]
+    * [syl-srb-0625-6R.cfg]
+    * [syl-srb-0625-L9.cfg]
+    * [syl-srb-125-cone-s.cfg]
+    * [syl-srb-125-cone.cfg]
+    * [syl-srb-1875-L.cfg]
+    * [syl-srb-1875-S.cfg]
+    * [syl-srb-1875-X.cfg]
+    * [syl-srb-250-cone-s.cfg]
+    * [syl-srb-250-cone.cfg]
+    * [syl-srb-250-L.cfg]
+    * [syl-srb-250-S.cfg]
+    * [syl-srb-250-X23.cfg]
+    * [syl-srb-250-X29.cfg]
+    * [syl-srb-375-cone-s.cfg]
+    * [syl-srb-375-cone.cfg]
+    * [syl-srb-375-L08.cfg]
+    * [syl-srb-375-L12.cfg]
+    * [syl-srb-375-L21.cfg]
+    * [syl-srb-375-L30.cfg]
+  * Structural
+    * [syl-adapt-3-2-1.cfg]
+    * [syl-adapt-4-2-1.cfg]
+    * [syl-adapt-4-3.cfg]
+    * [syl-adapt-5x4.cfg]
+  * ThrustPlates
+    * [syl-plate-125-0625-X1.cfg]
+    * [syl-plate-125-0625-X2.cfg]
+    * [syl-plate-250-125-0625-1X8.cfg]
+    * [syl-plate-250-125-X0.cfg]
+    * [syl-plate-250-125-X1.cfg]
+    * [syl-plate-250-125-X2.cfg]
+    * [syl-plate-375-125-X5.cfg]
+    * [syl-plate-375-125-X7.cfg]
+    * [syl-plate-375-250-X1.cfg]
+    * [syl-plate-500-250-1X8.cfg]
+    * [syl-plate-500-250-X2.cfg]
+    * [syl-plate-500-375-X1.cfg]
+* closes #39 - [Request]: Make engine model switching use the stock ModulePartVariants as opposed to requiring Interstellar Fuel Switch
+* closes #101 - [Log ERR] PartLoader: Compiling Part
+* closes #111 - [Bug 🐞]:`System.FormatException: Input string was not in a correct format` on some parts
+
+### Assets 1.9.99.2
+
+* Update
+  * model (.mu) pointers
+* closes #48 - Part Asset Updates
+
+### Compatibility 1.9.99.2
+
+* Add
+  * [MeshSwitch.cfg]
+* Update
+  * [EngineIgnitor.cfg]
+  * [HotRockets.cfg]
+  * [IndicatorLights.cfg]
+  * [ModularFuelTanks.cfg]
+  * [ModuleAnimateHeat.cfg]
+  * [RemoteTech.cfg]
+  * [TweakScale.cfg]
+  * [ATM.0]
+  * [HotRockets.cfg.blue]
+  * [0_TechTree.cfg]
+  * [CommunityTechTree.cfg]
+  * [ConnectedLivingSpace.cfg]
+  * [DeadlyReentry.cfg]
+  * [DefaultActionGroups.cfg]
+  * [DockingGuideLights.cfg]
+
+### Config 1.9.99.2
+
+* Update
+  * [ghostParts.cfg] v1.1.0.0
+  * [SpaceYLifters.cfg] v1.0.1.0
+* Moved from Compatibility
+  * [CustomSounds.0]
+  * [ColorChange5m.2016.orig]
+  * [ColorChange5m.cfg]
+  * [ColorChange5m.orig]
+  * [ColorChangeSRB.cfg]
+  * [ColorChangeSRB.orig]
+
+### Localization 1.9.99.2
+
+* Complete
+  * part localization
+* Update
+  * Localization/
+    * <en-us.cfg> v1.0.3.0
+* closes #47 - Create Localization directory and contents
+* closes #49 - Create <SpaceYLifters.cfg>
+* closes #51 - English <us-en.cfg>
+* closes #68 - Part Localization
+* updates #50 - Localization - Master
+
+### Code 1.9.99.2
+
+* NEW - Category fix [SpaceY.Lifters.dll] v1.9.99.2
+  * thank you [Lisias](https://github.com/Lisias)
+  * https://github.com/zer0Kerbal/SpaceYLifters/issues/106#issuecomment-1426527352
+* closes #106 - [BUG] Custom Category causing issues
+
+### Issues 1.9.99.2
+
+* closes #104 - SpaceY Lifters (SYL) 1.9.99.2-prerelease `<Thank you NecroBones>` edition
+* closes #105 - 1.9.99.2 Additional Tasks
+* closes #108 - [MOVE] Category.cfg to SpaceYCorp
+* closes #107 - [LICENSE] Update the individual files license statement
+
+---
+
 ## Version 1.9.99.1-prerelease - `<Thank you NecroBones>` edition
 
 * Released

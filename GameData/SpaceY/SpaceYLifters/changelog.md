@@ -10,6 +10,44 @@
 | spacedock  | (https://spacedock.info/mod/88)                                   |
 | ckan       | SpaceY-Lifters                                                    |
 
+## Version 1.9.99.2-prerelease - `<Thank you NecroBones>` edition
+
+* Released
+  * 09 May 2023
+  * for KSP 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* Phase I (initial) pass
+  * parts pass started (see 1.9.99.0 for more details)
+* Only updated parts are included
+* Parts updated (and included in this (pre)release)
+  * HeatShield
+  * Decouplers
+  * Fairings
+* [SpaceY.Lifters.dll] v1.9.99.2
+
+* 📌 Pinned
+  * Dependencies:
+    * [SpaceY Corporation (SYC)](https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorporation)
+  * This is the next prerelease in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
+  * search for `syl` or `spacey` in the editor search bar to find all parts in this pack.
+
+
+
+  * <ghostparts.cfg> is provided for testing. This file will not be active for v2.0.0.0-release.
+
+* Update
+  * ghostparts.cfg v1.1.0.0
+  * SpaceYLifters.cfg v1.0.1.0
+
+orange-jumbo-O.dds 1kb
+orange-jumbo-l.dds 1kb
+SYtank5m2-Specular.dds 1kb
+SYtank5m-Specular.dds 1kb
+SYtank7m-Specular.dds 1kb
+
+---
+
 ## Version 1.9.99.1-prerelease - `<Thank you NecroBones>` edition
 
 * Released

@@ -1,0 +1,130 @@
+// ColorChangeSRB.orig v2.1.0.0
+// SpaceY Lifters (SYL)
+// created: 17 Nov 2014
+// updated: 09 May 2023
+
+// THIS FILE: CC BY-NC-SA 4.0 by NecroBones and zer0Kerbal
+
+// WARNING -- DO NOT REMOVE THIS FILE. It's needed for both enabled AND disabled conditions.
+
+// Appearance switching, when available:
+@PART[syl-srb-1875-S|syl-srb-1875-L|syl-srb-1875-X|syl-srb-250-S|syl-srb-250-L|syl-srb-250-L23|syl-srb-250-X29]:NEEDS[InterstellarFuelSwitch|Firespitter]:AFTER[SpaceYLifters]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch] = FSmeshSwitch
+		name:NEEDS[InterstellarFuelSwitch] = InterstellarMeshSwitch
+		objects = SRB_Default;SRB_SLS;SRB_Titan;SRB_Black
+		objectDisplayNames = Default;SLS-CDR;Striped;Black
+		affectColliders = false
+		buttonName = Next Paint Scheme
+		previousButtonName = Prev Paint Scheme
+	}
+}
+@PART[syl-srb-375-L*]:NEEDS[InterstellarFuelSwitch|Firespitter]:AFTER[SpaceYLifters]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch] = FSmeshSwitch
+		name:NEEDS[InterstellarFuelSwitch] = InterstellarMeshSwitch
+		objects = SRB_Default;SRB_White;SRB_Black
+		objectDisplayNames = Default;White;Black
+		affectColliders = false
+		buttonName = Next Paint Scheme
+		previousButtonName = Prev Paint Scheme
+	}
+}
+
+@PART[syl-srb-125-cone,syl-srb-125-cone-s,syl-srb-250-cone,syl-srb-250-cone-s]:NEEDS[InterstellarFuelSwitch|Firespitter]:AFTER[SpaceYLifters]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch] = FSmeshSwitch
+		name:NEEDS[InterstellarFuelSwitch] = InterstellarMeshSwitch
+		objects = SRB_White;SRB_Black
+		objectDisplayNames = White;Black
+		affectColliders = false
+		buttonName = Next Paint Scheme
+		previousButtonName = Prev Paint Scheme
+	}
+}
+
+
+// Appearance switching turned off, when not available:
+@PART[syl-srb-1875-S|syl-srb-1875-L|syl-srb-1875-X|syl-srb-250-S|syl-srb-250-L|syl-srb-250-L23|syl-srb-250-X29]:NEEDS[!InterstellarFuelSwitch&!Firespitter]:AFTER[SpaceYLifters]
+{
+	node_stack_disabled = 0.0, -1000.0, 0.0, 0.0, -1.0, 0.0, 0
+
+	MODULE
+	{
+		name = ModuleJettison
+		jettisonName = SRB_SLS
+		bottomNodeName = disabled
+		isFairing = True
+		jettisonedObjectMass = 0.1
+		jettisonForce = 0.1
+		jettisonDirection = 0 0 1
+	}
+	MODULE
+	{
+		name = ModuleJettison
+		jettisonName = SRB_Titan
+		bottomNodeName = disabled
+		isFairing = True
+		jettisonedObjectMass = 0.1
+		jettisonForce = 0.1
+		jettisonDirection = 0 0 1
+	}
+	MODULE
+	{
+		name = ModuleJettison
+		jettisonName = SRB_Black
+		bottomNodeName = disabled
+		isFairing = True
+		jettisonedObjectMass = 0.1
+		jettisonForce = 0.1
+		jettisonDirection = 0 0 1
+	}
+}
+
+@PART[syl-srb-375-L*]:NEEDS[!InterstellarFuelSwitch&!Firespitter]:AFTER[SpaceYLifters]
+{
+	node_stack_disabled = 0.0, -1000.0, 0.0, 0.0, -1.0, 0.0, 0
+
+	MODULE
+	{
+		name = ModuleJettison
+		jettisonName = SRB_White
+		bottomNodeName = disabled
+		isFairing = True
+		jettisonedObjectMass = 0.1
+		jettisonForce = 0.1
+		jettisonDirection = 0 0 1
+	}
+	MODULE
+	{
+		name = ModuleJettison
+		jettisonName = SRB_Black
+		bottomNodeName = disabled
+		isFairing = True
+		jettisonedObjectMass = 0.1
+		jettisonForce = 0.1
+		jettisonDirection = 0 0 1
+	}
+}
+
+@PART[syl-srb-125-cone,syl-srb-125-cone-s,syl-srb-250-cone,syl-srb-250-cone-s]:NEEDS[!InterstellarFuelSwitch&!Firespitter]:AFTER[SpaceYLifters]
+{
+	node_stack_disabled = 0.0, -1000.0, 0.0, 0.0, -1.0, 0.0, 0
+
+	MODULE
+	{
+		name = ModuleJettison
+		jettisonName = SRB_Black
+		bottomNodeName = disabled
+		isFairing = True
+		jettisonedObjectMass = 0.1
+		jettisonForce = 0.1
+		jettisonDirection = 0 0 1
+	}
+}

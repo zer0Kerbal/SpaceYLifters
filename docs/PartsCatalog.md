@@ -4,22 +4,25 @@ title: Parts Catalog
 description: Bill, what are going to do tonight? Why Jeb, the same thing we do every night, Take over the world!
 tags: parts,invoice,catalog,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!-- PartsCatalog.md v1.1.4.0
-SpaceY Lifters (SYL)
+MOD-NAME (ABBV)
+created: 
+updated: 
+
+TEMPLATE: PartsCatalog.md v1.1.4.3
 created: 01 Feb 2022
-updated: 15 May 2022 -->
+updated: 01 May 2023 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-explosion fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #FF7E03" ></i>
 
-# SpaceY Lifters (SYL) (WIP)
+## [SpaceY Lifters (SYL)][mod]
 
-This add-on adds MANY large rocket parts
+This add-on adds ~78 large rocket parts
 
 [Home](./index.md)
 
-## Parts Catalog
+### Parts Catalog
 
 <!-- no toc -->
 * Table of Contents
@@ -35,7 +38,7 @@ This add-on adds MANY large rocket parts
   * [Structural](#structural)
   * [Thrust Plates](#thrust-plates)
 
-### Petal Bays
+#### Petal Bays
 
 * 3m x 2m Bay
 * 5m x 3m Bay
@@ -44,7 +47,7 @@ This add-on adds MANY large rocket parts
 
 [top](#parts-catalog)
 
-### Docking Ports
+#### Docking Ports
 
 * 3m, 5m, 7m
 
@@ -52,7 +55,7 @@ This add-on adds MANY large rocket parts
 
 [top](#parts-catalog)
 
-### Probe Cores
+#### Probe Cores
 
 * 3m, 5m
 
@@ -60,7 +63,7 @@ This add-on adds MANY large rocket parts
 
 [top](#parts-catalog)
 
-### SAS
+#### SAS
 
 * Semi-circle SAS (apply as pair)
   * R3m and R5m
@@ -69,7 +72,7 @@ This add-on adds MANY large rocket parts
 
 [top](#parts-catalog)
 
-### Engines
+#### Engines
 
 * eng-125-K1
 * eng-250-M1, eng-250-R1
@@ -83,7 +86,7 @@ This add-on adds MANY large rocket parts
 
 [top](#parts-catalog)
 
-### Fuel Tanks
+#### Fuel Tanks
 
 * 375-cone-2, 375-cone
 * 500-adapt-375, 500-cone-2
@@ -100,7 +103,7 @@ This add-on adds MANY large rocket parts
 
 [top](#parts-catalog)
 
-### Ground
+#### Ground
 
 * clamp-1, clamp-2
 * leg-1, leg-2
@@ -111,7 +114,7 @@ This add-on adds MANY large rocket parts
 
 [top](#parts-catalog)
 
-### RCS-OMS
+#### RCS-OMS
 
 * rcs-1, rcs-2
 * rcs-oms-1, rcs-oms-2
@@ -121,7 +124,7 @@ This add-on adds MANY large rocket parts
 
 [top](#parts-catalog)
 
-### Solid Rocket Booster (SRB)
+#### Solid Rocket Booster (SRB)
 
 * ejectatron
 * 0.625m
@@ -156,7 +159,7 @@ This add-on adds MANY large rocket parts
 
 [top](#parts-catalog)
 
-### Structural
+#### Structural
 
 * adapt-3-2-1, adapt-4-2-1
 * adapt-4-3, adapt-5x4,
@@ -167,7 +170,7 @@ This add-on adds MANY large rocket parts
 
 [top](#parts-catalog)
 
-### Thrust Plates
+#### Thrust Plates
 
 * 125-0625-X1, 125-0625-X2
 * 250-125-0625-1X8, 250-125-X0
@@ -187,4 +190,7 @@ This add-on adds MANY large rocket parts
 
  [top](#parts-catalog)
 
-<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/SpaceYLifters "SpaceY Lifters (SYL)"
