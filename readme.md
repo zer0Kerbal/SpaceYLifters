@@ -226,8 +226,8 @@ Comment, click, like, share, up-vote, subscribe
 [parts]: https://zer0kerbal.github.io/SpaceYLifters/PartsCatalog "Parts Catalog"
 
 <!--- shields -->
-[SHD:cde]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MOD-NAME/master/json/code.json
-[SHD:dll]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MOD-NAME/master/json/dll.json
+[SHD:cde]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYLifters/master/json/code.json
+[SHD:dll]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYLifters/master/json/dll.json
 [SHD:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYLifters/master/json/mod.json
 [SHD:pgs]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
