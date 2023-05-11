@@ -20,7 +20,7 @@
 * 78/78 parts are now included
 * Phase I,II,III passes completed
   * parts pass started (see 1.9.99.0 for more details)
-  * DRAG_CUBES, cargo, node pass yet to complete
+  * DRAG_CUBES, cargo, node, tags pass yet to complete
 * Parts updated (and included in this (pre)release)
   * CargoBays
   * Command
