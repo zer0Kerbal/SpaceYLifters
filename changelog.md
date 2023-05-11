@@ -32,7 +32,75 @@
   * This is the next prerelease in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
   * search for `syl` or `spacey` in the editor search bar to find all parts in this pack.
 
-
+* Engines
+  * [syl-eng-125-K1.cfg]
+  * [syl-eng-250-M1.cfg]
+  * [syl-eng-250-R1.cfg]
+  * [syl-eng-500-M5.cfg]
+  * [syl-eng-500-M9.cfg]
+  * [syl-eng-500-R5.cfg]
+  * [syl-eng-500-R7.cfg]
+* FuelTanks
+  * [syl-tank-375-cone-2.cfg]
+  * [syl-tank-375-cone.cfg]
+  * [syl-tank-500-adapt-375.cfg]
+  * [syl-tank-500-cone-2.cfg]
+  * [syl-tank-500-L1125.cfg]
+  * [syl-tank-500-L1500.cfg]
+  * [syl-tank-500-L1875.cfg]
+  * [syl-tank-500-L375.cfg]
+  * [syl-tank-500-L750.cfg]
+* Ground
+  * [syl-clamp-1.cfg]
+  * [syl-clamp-2.cfg]
+  * [syl-leg-1.cfg]
+  * [syl-leg-2.cfg]
+* RCS-OMS
+  * [syl-rcs-1.cfg]
+  * [syl-rcs-2.cfg]
+  * [syl-rcs-oms-1.cfg]
+  * [syl-rcs-oms-2.cfg]
+* SRB
+  * [syl-ejectatron.cfg]
+  * [syl-srb-0625-1R.cfg]
+  * [syl-srb-0625-5S.cfg]
+  * [syl-srb-0625-6R.cfg]
+  * [syl-srb-0625-L9.cfg]
+  * [syl-srb-125-cone-s.cfg]
+  * [syl-srb-125-cone.cfg]
+  * [syl-srb-1875-L.cfg]
+  * [syl-srb-1875-S.cfg]
+  * [syl-srb-1875-X.cfg]
+  * [syl-srb-250-cone-s.cfg]
+  * [syl-srb-250-cone.cfg]
+  * [syl-srb-250-L.cfg]
+  * [syl-srb-250-S.cfg]
+  * [syl-srb-250-X23.cfg]
+  * [syl-srb-250-X29.cfg]
+  * [syl-srb-375-cone-s.cfg]
+  * [syl-srb-375-cone.cfg]
+  * [syl-srb-375-L08.cfg]
+  * [syl-srb-375-L12.cfg]
+  * [syl-srb-375-L21.cfg]
+  * [syl-srb-375-L30.cfg]
+* Structural
+  * [syl-adapt-3-2-1.cfg]
+  * [syl-adapt-4-2-1.cfg]
+  * [syl-adapt-4-3.cfg]
+  * [syl-adapt-5x4.cfg]
+* ThrustPlates
+  * [syl-plate-125-0625-X1.cfg]
+  * [syl-plate-125-0625-X2.cfg]
+  * [syl-plate-250-125-0625-1X8.cfg]
+  * [syl-plate-250-125-X0.cfg]
+  * [syl-plate-250-125-X1.cfg]
+  * [syl-plate-250-125-X2.cfg]
+  * [syl-plate-375-125-X5.cfg]
+  * [syl-plate-375-125-X7.cfg]
+  * [syl-plate-375-250-X1.cfg]
+  * [syl-plate-500-250-1X8.cfg]
+  * [syl-plate-500-250-X2.cfg]
+  * [syl-plate-500-375-X1.cfg]
 
   * <ghostparts.cfg> is provided for testing. This file will not be active for v2.0.0.0-release.
 
