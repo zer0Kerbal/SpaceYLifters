@@ -1,9 +1,14 @@
+// SpaceY_ColorChange5m.2016.orig v2.1.0.0
+// SpaceY Lifters (SYL)
+// created: 17 Nov 2014
+// updated: 09 May 2023
+
+// THIS FILE: CC BY-NC-SA 4.0 by NecroBones and zer0Kerbal
 
 // WARNING -- DO NOT REMOVE THIS FILE. It's needed for both enabled AND disabled conditions.
 
 // Appearance switching, when available:
-
-@PART[SYtank5mL*|SYtank5m3mAdapter|SYtank5mCone2]:NEEDS[InterstellarFuelSwitch|Firespitter]:AFTER[SpaceY-Lifters]
+@PART[syl-tank-500-L*|syl-tank-500-adapt-375|syl-tank-500-cone-2]:NEEDS[InterstellarFuelSwitch|Firespitter]:AFTER[SpaceYLifters]
 {
 	@MODEL {
 		texture = orange-jumbo-0, Squad/Parts/FuelTank/fuelTankJumbo-64/model000
@@ -23,7 +28,7 @@
 
 // Appearance switching turned off, when not available:
 
-@PART[SYtank5mL*|SYtank5m3mAdapter|SYtank5mCone2]:NEEDS[!InterstellarFuelSwitch&!Firespitter]:AFTER[SpaceY-Lifters]
+@PART[syl-tank-500-L*|syl-tank-500-adapt-375|syl-tank-500-cone-2]:NEEDS[!InterstellarFuelSwitch&!Firespitter]:AFTER[SpaceYLifters]
 {
 	node_stack_disabled = 0.0, -1000.0, 0.0, 0.0, -1.0, 0.0, 0
 
@@ -108,6 +113,3 @@
 		jettisonDirection = 0 0 1
 	}
 }
-
-
-
