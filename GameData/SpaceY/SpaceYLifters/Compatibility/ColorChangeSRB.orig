@@ -1,9 +1,14 @@
+// ColorChangeSRB.orig v2.1.0.0
+// SpaceY Lifters (SYL)
+// created: 17 Nov 2014
+// updated: 09 May 2023
+
+// THIS FILE: CC BY-NC-SA 4.0 by NecroBones and zer0Kerbal
 
 // WARNING -- DO NOT REMOVE THIS FILE. It's needed for both enabled AND disabled conditions.
 
 // Appearance switching, when available:
-
-@PART[SYSRB_1875S|SYSRB_1875L|SYSRB_1875X|SYSRB_25S|SYSRB_25L|SYSRB_25X*]:NEEDS[InterstellarFuelSwitch|Firespitter]:AFTER[SpaceY-Lifters]
+@PART[syl-srb-1875-S|syl-srb-1875-L|syl-srb-1875-X|syl-srb-250-S|syl-srb-250-L|syl-srb-250-L23|syl-srb-250-X29]:NEEDS[InterstellarFuelSwitch|Firespitter]:AFTER[SpaceYLifters]
 {
 	MODULE
 	{
@@ -16,7 +21,7 @@
 		previousButtonName = Prev Paint Scheme
 	}
 }
-@PART[SYSRB_375L*]:NEEDS[InterstellarFuelSwitch|Firespitter]:AFTER[SpaceY-Lifters]
+@PART[syl-srb-375-L*]:NEEDS[InterstellarFuelSwitch|Firespitter]:AFTER[SpaceYLifters]
 {
 	MODULE
 	{
@@ -29,7 +34,8 @@
 		previousButtonName = Prev Paint Scheme
 	}
 }
-@PART[SYSRBconeSize*]:NEEDS[InterstellarFuelSwitch|Firespitter]:AFTER[SpaceY-Lifters]
+
+@PART[syl-srb-125-cone,syl-srb-125-cone-s,syl-srb-250-cone,syl-srb-250-cone-s]:NEEDS[InterstellarFuelSwitch|Firespitter]:AFTER[SpaceYLifters]
 {
 	MODULE
 	{
@@ -45,8 +51,7 @@
 
 
 // Appearance switching turned off, when not available:
-
-@PART[SYSRB_1875S|SYSRB_1875L|SYSRB_1875X|SYSRB_25S|SYSRB_25L|SYSRB_25X*]:NEEDS[!InterstellarFuelSwitch&!Firespitter]:AFTER[SpaceY-Lifters]
+@PART[syl-srb-1875-S|syl-srb-1875-L|syl-srb-1875-X|syl-srb-250-S|syl-srb-250-L|syl-srb-250-L23|syl-srb-250-X29]:NEEDS[!InterstellarFuelSwitch&!Firespitter]:AFTER[SpaceYLifters]
 {
 	node_stack_disabled = 0.0, -1000.0, 0.0, 0.0, -1.0, 0.0, 0
 
@@ -81,7 +86,8 @@
 		jettisonDirection = 0 0 1
 	}
 }
-@PART[SYSRB_375L*]:NEEDS[!InterstellarFuelSwitch&!Firespitter]:AFTER[SpaceY-Lifters]
+
+@PART[syl-srb-375-L*]:NEEDS[!InterstellarFuelSwitch&!Firespitter]:AFTER[SpaceYLifters]
 {
 	node_stack_disabled = 0.0, -1000.0, 0.0, 0.0, -1.0, 0.0, 0
 
@@ -106,7 +112,8 @@
 		jettisonDirection = 0 0 1
 	}
 }
-@PART[SYSRBconeSize*]:NEEDS[!InterstellarFuelSwitch&!Firespitter]:AFTER[SpaceY-Lifters]
+
+@PART[syl-srb-125-cone,syl-srb-125-cone-s,syl-srb-250-cone,syl-srb-250-cone-s]:NEEDS[!InterstellarFuelSwitch&!Firespitter]:AFTER[SpaceYLifters]
 {
 	node_stack_disabled = 0.0, -1000.0, 0.0, 0.0, -1.0, 0.0, 0
 
