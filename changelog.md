@@ -17,14 +17,26 @@
   * for KSP 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-* Phase I (initial) pass
+* 78/78 parts are now included
+* Phase I,II,III passes completed
   * parts pass started (see 1.9.99.0 for more details)
-* Only updated parts are included
+  * DRAG_CUBES, cargo, node pass yet to complete
 * Parts updated (and included in this (pre)release)
-  * HeatShield
+  * CargoBays
+  * Command
+  * Control
   * Decouplers
+  * Docking
+  * Engines
   * Fairings
-* [SpaceY.Lifters.dll] v1.9.99.2
+  * FuelTanks
+  * Ground
+  * HeatShield
+  * RCS-OMS
+  * Solid Rocket Boosters
+  * Structural
+  * ThrustPlates
+* NEW - Category fix [SpaceY.Lifters.dll] v1.9.99.2
 
 * 📌 Pinned
   * Dependencies:
