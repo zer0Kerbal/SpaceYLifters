@@ -18,7 +18,9 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 78 parts for large lifting rockets, 5m rocket parts, large SRBs, and matching decouplers for Kerbal Space Program.
 
-## By [`zer0Kerbal`][zer0Kerbal], originally by  [`NecroBones`][auth-link]
+Parts for large lifting rockets, 5m rocket parts, large SRBs, and matching decouplers for Kerbal Space Program.
+
+## By [`zer0Kerbal`][zedK], originally by  [`NecroBones`][necrobones]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
@@ -205,7 +207,7 @@ parts, config
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
-#### Author (1) - [`zer0Kerbal`][zer0Kerbal]
+#### Author (1) - [`zer0Kerbal`][zedK]
 
 > Forum: [Thread][forum] - Source: [GitHub][GITHUB:url] - Download [CurseForge]  
 > License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
@@ -224,7 +226,7 @@ parts, config
 >
 >* see [Notices][notic] for more *legal Mumbo Jumbo*
 
-### How to support this and other great mods by [`zer0Kerbal`][zedk]
+### How to support this and other great mods by [`zer0Kerbal`][zedK]
 
 Comment, click, like, share, up-vote, subscribe
 
@@ -279,7 +281,7 @@ Comment, click, like, share, up-vote, subscribe
 
 <!-- links -->
 [auth-link]: https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/ "NecroBones/Orvidius"
-[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
+[zedK]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
