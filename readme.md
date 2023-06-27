@@ -20,7 +20,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 Parts for large lifting rockets, 5m rocket parts, large SRBs, and matching decouplers for Kerbal Space Program.
 
-## By [`zer0Kerbal`][zedK], originally by  [`NecroBones`][necrobones]
+## By [`zer0Kerbal`][zedK], originally by  [`NecroBones`][auth-link]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
