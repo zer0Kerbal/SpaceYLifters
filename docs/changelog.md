@@ -13,15 +13,158 @@ CC BY-ND 4.0 by zer0Kerbal
 -->
 # Changelog  
   
-| modName    | SpaceY Lifters (SYL)                                              |
+| modName    | SpaceY Lifters (SYL) by NecroBones                                |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-NC-SA-4.0                                                   |
+| license    | CC-BY-NC-SA-4.0+ARR                                               |
 | author     | NecroBones(Orvidius) and zer0Kerbal                               |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209445-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SpaceYLifters)          |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SpaceYLifters)        |
 | spacedock  | (https://spacedock.info/mod/88)                                   |
 | ckan       | SpaceY-Lifters                                                    |
+
+## Version 1.9.99.3-prerelease - `<Спасибо evanisrael>` edition
+
+* Released
+  * 26 Jun 2023
+  * for KSP 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* 📌 Pinned
+  * Dependencies:
+    * [SpaceY Corporation (SYC)](https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorporation)
+  * 78/78 parts are now included
+  * search for `syl` or `spacey` in the editor search bar to find all parts in this pack.
+  * <ghostparts.cfg> is provided for testing.
+    * This file will not be active for v2.0.0.0-release.
+    * Can be disabled/deleted if installing this addon into a new save
+  * Category fix [SpaceY.Lifters.dll] v1.9.99.3 - thank you [Lisias](https://github.com/Lisias)
+
+### Change Summary 2.0.99.1
+
+* Add `B9Fuelswitch` compatibility (experimental)
+* Update nodes and drag_cubes in all engines
+* Fix several textures/models that Bob was complaining about
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+  * Спасибо [evanisrael](https://github/evanisrael)
+
+### Changes 2.0.99.1
+
+#### Assets 2.0.99.1
+
+* Re-encoded
+  * [SYtank7m-Specular.dds]
+    * First attempt to fix issue with SpaceY Expanded BFR
+  * [SYengine5mR5-Emissive.dds]
+    * was throwing ERR in KSP.log
+* Reverted
+  * 1.17.2.0 version
+  * updated pointers
+    * [SYdocking5m.mu]
+    * [SYdocking3m.mu]
+    * [SYengine5mM9.mu]
+
+#### Parts 2.0.99.1
+
+* Update
+  * update attachment nodes
+  * add DRAG_CUBES
+    * [syl-eng-250-R1.cfg] v2.0.1.0
+    * [syl-eng-500-M5.cfg] v2.0.1.0
+    * [syl-eng-500-M9.cfg] v2.0.1.0
+    * [syl-eng-500-R5.cfg] v2.0.1.0
+    * [syl-eng-500-R7.cfg] v2.0.1.0
+    * [syl-eng-125-K1.cfg] v2.0.1.0
+    * [syl-eng-250-M1.cfg] v2.0.1.0
+  * remove
+    * [FuelVolume]
+      * [tank-500-L1500.cfg] v2.0.1.0
+      * [tank-500-L1875.cfg] v2.0.1.0
+      * [tank-375-cone.cfg] v2.0.1.0
+      * [tank-375-cone-2.cfg] v2.0.1.0
+      * [tank-500-adapt-375.cfg] v2.0.1.0
+      * [tank-500-cone-2.cfg] v2.0.1.0
+      * [tank-500-L375.cfg] v2.0.1.0
+      * [tank-500-L750.cfg] v2.0.1.0
+      * [tank-500-L1125.cfg] v2.0.1.0
+
+#### Compatibility 2.0.99.1
+
+* Add
+  * [B9Fuelswitch.cfg] v1.0.0.0
+  * Experimental
+* Update
+  * [ModularFuelTanks.cfg] v2.1.2.0
+    * add localized description text
+
+#### Config 2.0.99.1
+
+* Update
+  * [SpaceYLifters.cfg v1.0.3.0]
+    * correct :NEEDS
+
+#### Localization 2.0.99.1
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+* Update
+  * [en-us.cfg] v1.0.5.0
+  * [ru.cfg] v1.0.1.0
+  * add header, give credit
+* closes #58 - Russian (Русский) <ru.cfg>
+* updates #50 - Localization - Master
+* updates #51 - English <us-en.cfg>
+
+#### Documentation 2.0.99.1
+
+* Update
+  * [readme.md] 1.9.99.3
+  * [ReleaseLayout.md] 2.0.99.1
+  * [404.md] v1.0.4.0
+  * [Attributions.md] v1.0.4.0
+  * [LegalMumboJumbo.md] v1.0.4.0
+  * [Localizations.md] v1.0.4.0
+  * [ManualInstallation.md] v1.0.4.0
+  * [Marketing.md] v1.0.4.0
+  * [Notices.md] v1.0.4.0
+  * [PartsCatalog.md] v1.0.4.0
+  * [Why.md] v1.0.4.0
+
+### Status 2.0.99.1
+
+* Issues
+  * closes #112 - SpaceY Lifters (SYL) 1.9.99.3-prerelease `<Спасибо evanisrael>` edition
+  * closes #113 - 1.9.99.3 Additional Tasks
+  * updates #39 - [Request]: Make engine model switching use the stock ModulePartVariants as opposed to requiring Interstellar Fuel Switch
+
+---
+
+## Version 1.9.99.3-prerelease - `<Спасибо evanisrael>` edition
+
+* Released
+  * 26 Jun 2023
+  * for KSP 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* 📌 Pinned
+  * Dependencies:
+    * [SpaceY Corporation (SYC)](https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorporation)
+  * 78/78 parts are now included
+  * search for `syl` or `spacey` in the editor search bar to find all parts in this pack.
+  * <ghostparts.cfg> is provided for testing. This file will not be active for v2.0.0.0-release.
+  * Category fix [SpaceY.Lifters.dll] v1.9.99.3 - thank you [Lisias](https://github.com/Lisias)
+  * Compatibility patches have been updated, not tested.
+
+Update 0_TechTree.cfg
+
+---
 
 ## Version 1.9.99.2-prerelease - `<Thank you NecroBones>` edition
 
@@ -58,7 +201,9 @@ CC BY-ND 4.0 by zer0Kerbal
     * [SpaceY Corporation (SYC)](https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorporation)
   * This is the next prerelease in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
   * search for `syl` or `spacey` in the editor search bar to find all parts in this pack.
-  * <ghostparts.cfg> is provided for testing. This file will not be active for v2.0.0.0-release.
+  * <ghostparts.cfg> is provided for testing.
+    * This file will not be active for v2.0.0.0-release.
+    * Can be disabled/deleted if installing this addon into a new save
 
 ### Changes 1.9.99.2
 
@@ -121,7 +266,7 @@ CC BY-ND 4.0 by zer0Kerbal
     * [syl-adapt-4-2-1.cfg]
     * [syl-adapt-4-3.cfg]
     * [syl-adapt-5x4.cfg]
-  * ThrustPlates
+  * Thrust Plates
     * [syl-plate-125-0625-X1.cfg]
     * [syl-plate-125-0625-X2.cfg]
     * [syl-plate-250-125-0625-1X8.cfg]
@@ -251,7 +396,7 @@ CC BY-ND 4.0 by zer0Kerbal
 ## Version 1.9.99.0-adoption - `<Thank you NecroBones>`
 
 * Released
-  * on 10 Dec 2022
+  * on created: 10 Dec 2022
   * for KSP 1.12.4
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 

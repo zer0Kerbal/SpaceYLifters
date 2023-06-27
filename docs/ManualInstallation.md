@@ -5,18 +5,21 @@ description: the flat-pack Kiea instructions, written in Kerbalese, unusally pre
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!-- ManualInstallation.md v1.1.8.1
+<!-- ManualInstallation.md v1.0.4.0
 SpaceY Lifters (SYL)
-created: 01 Oct 2019
-updated: 29 Jul 2022 -->
+created: 10 Dec 2022
+updated: 26 Jun 2022 
 
-<!-- based upon work by Lisias -->
+TEMPLATE: ManualInstallation.md v1.1.9.1
+created: 01 Feb 2022
+updated: 26 Apr 2023
 
-# SpaceY Lifters (SYL)
+based upon work by Lisias -->
+## [SpaceY Lifters (SYL)][mod]
 
 [Home](./index.md)
 
-Parts for large lifting rockets, 5m rocket parts and large SRBs, and matching decouplers for Kerbal Space Program.
+78 parts for large lifting rockets, 5m rocket parts and large SRBs, and matching decouplers for Kerbal Space Program.
 
 ## Installation Instructions
 
@@ -53,17 +56,38 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
   + [GameData]
     + [SpaceY]
       + [SpaceY Corporation (SYC)][SYC]
-        ...
-      + [SpaceYLifters][SYL]
+        + [Agencies]
+          ...
         + [Compatibility]
           ...
         + [Config]
           ...
         + [Contracts]
           ...
+        + [Flags]
+          ...
+        + [Localization]
+          ...
+      + [SpaceYLifters][SYL]
+        + [Assets]
+          ...
+        + [Category]
+          ...
+        + [Compatibility]
+          ...
+        + [Config]
+          ...
+        + [Contracts]
+          ...
+        + [FX]
+          ...
         + [Localization]
           ...
         + [Parts]
+          ...
+        + [Plugins]
+          ...
+        + [Sounds]
           ...
         * #.#.#.#.htm
         * Attributions.htm
@@ -84,4 +108,8 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * [SpaceY Corporation (SYC)][SYC]
 
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/SpaceYLifters "SpaceY Lifters (SYL)"
 [SYC]: https://forum.kerbalspaceprogram.com/index.php?/topic/209446-*/ "SpaceY Corporation (SYC)"
