@@ -22,19 +22,54 @@
     * [SpaceY Corporation (SYC)](https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorporation)
   * 78/78 parts are now included
   * search for `syl` or `spacey` in the editor search bar to find all parts in this pack.
-  * <ghostparts.cfg> is provided for testing. This file will not be active for v2.0.0.0-release.
+  * <ghostparts.cfg> is provided for testing.
+    * This file will not be active for v2.0.0.0-release.
+    * Can be disabled/deleted if installing this addon into a new save
   * Category fix [SpaceY.Lifters.dll] v1.9.99.3 - thank you [Lisias](https://github.com/Lisias)
-  * Compatibility patches have been updated, not tested.
 
 ### Change Summary 2.0.99.1
 
+* Add `B9Fuelswitch` compatibility (experimental)
+* Update nodes and drag_cubes in all engines
 * Localize
   * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
   * Спасибо [evanisrael](https://github/evanisrael)
 
+### Changes 2.0.99.1
+
+#### Assets 2.0.99.1
+
+* First attempt to fix issue with SpaceY Expanded BFR
+  * SpaceY Lifters
+    * Re-encoded [SYtank7m-Specular.dds]
+
+#### Parts 2.0.99.1
+
+* Update
+  * update attachment nodes
+  * add DRAG_CUBES
+    * [syl-eng-250-R1.cfg] v2.0.1.0
+    * [syl-eng-500-M5.cfg] v2.0.1.0
+    * [syl-eng-500-M9.cfg] v2.0.1.0
+    * [syl-eng-500-R5.cfg] v2.0.1.0
+    * [syl-eng-500-R7.cfg] v2.0.1.0
+    * [syl-eng-125-K1.cfg] v2.0.1.0
+    * [syl-eng-250-M1.cfg] v2.0.1.0
+
 #### Compatibility 2.0.99.1
 
-B9Fuelswitch.cfg v1.0.0.0
+* Add
+  * [B9Fuelswitch.cfg] v1.0.0.0
+  * Experimental
+* Update
+  * [ModularFuelTanks.cfg] v2.1.2.0
+    * add localized description text
+
+#### Config 2.0.99.1
+
+* Update
+  * [SpaceYLifters.cfg v1.0.3.0]
+    * correct :NEEDS
 
 #### Localization 2.0.99.1
 
@@ -47,9 +82,12 @@ B9Fuelswitch.cfg v1.0.0.0
     * [quickstart-ru.md] v1.0.0.0
     * Спасибо [evanisrael](https://github/evanisrael)
 * Update
+  * [en-us.cfg] v1.0.5.0
   * [ru.cfg] v1.0.1.0
-  * en-us.cfg v1.0.5.0
   * add header, give credit
+* closes #58 - Russian (Русский) <ru.cfg>
+* updates #50 - Localization - Master
+* updates #51 - English <us-en.cfg>
 
 #### Documentation 2.0.99.1
 
@@ -65,6 +103,15 @@ B9Fuelswitch.cfg v1.0.0.0
   * [Notices.md] v1.0.4.0
   * [PartsCatalog.md] v1.0.4.0
   * [Why.md] v1.0.4.0
+
+### Status 2.0.99.1
+
+* Issues
+  * closes #112 - SpaceY Lifters (SYL) 1.9.99.3-prerelease `<Спасибо evanisrael>` edition
+  * closes #113 - 1.9.99.3 Additional Tasks
+  * updates #39 - [Request]: Make engine model switching use the stock ModulePartVariants as opposed to requiring Interstellar Fuel Switch
+
+---
 
 ## Version 1.9.99.3-prerelease - `<Спасибо evanisrael>` edition
 
