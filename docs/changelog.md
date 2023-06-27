@@ -251,7 +251,7 @@ CC BY-ND 4.0 by zer0Kerbal
 ## Version 1.9.99.0-adoption - `<Thank you NecroBones>`
 
 * Released
-  * on 10 Dec 2022
+  * on created: 10 Dec 2022
   * for KSP 1.12.4
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
