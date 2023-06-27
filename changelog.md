@@ -1,14 +1,85 @@
 # Changelog  
   
-| modName    | SpaceY Lifters (SYL)                                              |
+| modName    | SpaceY Lifters (SYL) by NecroBones                                |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-NC-SA-4.0                                                   |
+| license    | CC-BY-NC-SA-4.0+ARR                                               |
 | author     | NecroBones(Orvidius) and zer0Kerbal                               |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209445-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SpaceYLifters)          |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SpaceYLifters)        |
 | spacedock  | (https://spacedock.info/mod/88)                                   |
 | ckan       | SpaceY-Lifters                                                    |
+
+## Version 1.9.99.3-prerelease - `<Спасибо evanisrael>` edition
+
+* Released
+  * 26 Jun 2023
+  * for KSP 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* 📌 Pinned
+  * Dependencies:
+    * [SpaceY Corporation (SYC)](https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorporation)
+  * 78/78 parts are now included
+  * search for `syl` or `spacey` in the editor search bar to find all parts in this pack.
+  * <ghostparts.cfg> is provided for testing. This file will not be active for v2.0.0.0-release.
+  * Category fix [SpaceY.Lifters.dll] v1.9.99.3 - thank you [Lisias](https://github.com/Lisias)
+  * Compatibility patches have been updated, not tested.
+
+### Change Summary 2.0.99.1
+
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+  * Спасибо [evanisrael](https://github/evanisrael)
+
+#### Localization 2.0.99.1
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+* Update
+  * [ru.cfg] v1.0.1.0
+  * add header, give credit
+
+#### Documentation 2.0.99.1
+
+* Update
+  * [readme.md] 1.9.99.3
+  * [ReleaseLayout.md] 2.0.99.1
+  * [404.md] v1.0.4.0
+  * [Attributions.md] v1.0.4.0
+  * [LegalMumboJumbo.md] v1.0.4.0
+  * [Localizations.md] v1.0.4.0
+  * [ManualInstallation.md] v1.0.4.0
+  * [Marketing.md] v1.0.4.0
+  * [Notices.md] v1.0.4.0
+  * [PartsCatalog.md] v1.0.4.0
+  * [Why.md] v1.0.4.0
+
+## Version 1.9.99.3-prerelease - `<Спасибо evanisrael>` edition
+
+* Released
+  * 26 Jun 2023
+  * for KSP 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* 📌 Pinned
+  * Dependencies:
+    * [SpaceY Corporation (SYC)](https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorporation)
+  * 78/78 parts are now included
+  * search for `syl` or `spacey` in the editor search bar to find all parts in this pack.
+  * <ghostparts.cfg> is provided for testing. This file will not be active for v2.0.0.0-release.
+  * Category fix [SpaceY.Lifters.dll] v1.9.99.3 - thank you [Lisias](https://github.com/Lisias)
+  * Compatibility patches have been updated, not tested.
+
+Update 0_TechTree.cfg
+
+---
 
 ## Version 1.9.99.2-prerelease - `<Thank you NecroBones>` edition
 
@@ -240,7 +311,7 @@
 ## Version 1.9.99.0-adoption - `<Thank you NecroBones>`
 
 * Released
-  * on 10 Dec 2022
+  * on created: 10 Dec 2022
   * for KSP 1.12.4
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
