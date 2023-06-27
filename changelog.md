@@ -55,6 +55,17 @@
     * [syl-eng-500-R7.cfg] v2.0.1.0
     * [syl-eng-125-K1.cfg] v2.0.1.0
     * [syl-eng-250-M1.cfg] v2.0.1.0
+  * remove
+    * [FuelVolume]
+      * [tank-500-L1500.cfg] v2.0.1.0
+      * [tank-500-L1875.cfg] v2.0.1.0
+      * [tank-375-cone.cfg] v2.0.1.0
+      * [tank-375-cone-2.cfg] v2.0.1.0
+      * [tank-500-adapt-375.cfg] v2.0.1.0
+      * [tank-500-cone-2.cfg] v2.0.1.0
+      * [tank-500-L375.cfg] v2.0.1.0
+      * [tank-500-L750.cfg] v2.0.1.0
+      * [tank-500-L1125.cfg] v2.0.1.0
 
 #### Compatibility 2.0.99.1
 
