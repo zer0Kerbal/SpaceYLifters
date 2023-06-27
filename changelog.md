@@ -31,6 +31,7 @@
 
 * Add `B9Fuelswitch` compatibility (experimental)
 * Update nodes and drag_cubes in all engines
+* Fix several textures/models that Bob was complaining about
 * Localize
   * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
   * Спасибо [evanisrael](https://github/evanisrael)
@@ -39,9 +40,17 @@
 
 #### Assets 2.0.99.1
 
-* First attempt to fix issue with SpaceY Expanded BFR
-  * SpaceY Lifters
-    * Re-encoded [SYtank7m-Specular.dds]
+* Re-encoded
+  * [SYtank7m-Specular.dds]
+    * First attempt to fix issue with SpaceY Expanded BFR
+  * [SYengine5mR5-Emissive.dds]
+    * was throwing ERR in KSP.log
+* Reverted
+  * 1.17.2.0 version
+  * updated pointers
+    * [SYdocking5m.mu]
+    * [SYdocking3m.mu]
+    * [SYengine5mM9.mu]
 
 #### Parts 2.0.99.1
 
