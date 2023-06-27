@@ -32,6 +32,10 @@
   * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
   * Спасибо [evanisrael](https://github/evanisrael)
 
+#### Compatibility 2.0.99.1
+
+B9Fuelswitch.cfg v1.0.0.0
+
 #### Localization 2.0.99.1
 
 * Add
@@ -44,6 +48,7 @@
     * Спасибо [evanisrael](https://github/evanisrael)
 * Update
   * [ru.cfg] v1.0.1.0
+  * en-us.cfg v1.0.5.0
   * add header, give credit
 
 #### Documentation 2.0.99.1
