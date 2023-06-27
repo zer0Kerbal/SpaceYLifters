@@ -44,6 +44,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 * Add `B9Fuelswitch` compatibility (experimental)
 * Update nodes and drag_cubes in all engines
+* Fix several textures/models that Bob was complaining about
 * Localize
   * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
   * Спасибо [evanisrael](https://github/evanisrael)
@@ -52,9 +53,17 @@ CC BY-ND 4.0 by zer0Kerbal
 
 #### Assets 2.0.99.1
 
-* First attempt to fix issue with SpaceY Expanded BFR
-  * SpaceY Lifters
-    * Re-encoded [SYtank7m-Specular.dds]
+* Re-encoded
+  * [SYtank7m-Specular.dds]
+    * First attempt to fix issue with SpaceY Expanded BFR
+  * [SYengine5mR5-Emissive.dds]
+    * was throwing ERR in KSP.log
+* Reverted
+  * 1.17.2.0 version
+  * updated pointers
+    * [SYdocking5m.mu]
+    * [SYdocking3m.mu]
+    * [SYengine5mM9.mu]
 
 #### Parts 2.0.99.1
 
@@ -68,6 +77,17 @@ CC BY-ND 4.0 by zer0Kerbal
     * [syl-eng-500-R7.cfg] v2.0.1.0
     * [syl-eng-125-K1.cfg] v2.0.1.0
     * [syl-eng-250-M1.cfg] v2.0.1.0
+  * remove
+    * [FuelVolume]
+      * [tank-500-L1500.cfg] v2.0.1.0
+      * [tank-500-L1875.cfg] v2.0.1.0
+      * [tank-375-cone.cfg] v2.0.1.0
+      * [tank-375-cone-2.cfg] v2.0.1.0
+      * [tank-500-adapt-375.cfg] v2.0.1.0
+      * [tank-500-cone-2.cfg] v2.0.1.0
+      * [tank-500-L375.cfg] v2.0.1.0
+      * [tank-500-L750.cfg] v2.0.1.0
+      * [tank-500-L1125.cfg] v2.0.1.0
 
 #### Compatibility 2.0.99.1
 
