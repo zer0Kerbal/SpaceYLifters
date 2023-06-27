@@ -4,25 +4,24 @@ title: Parts Catalog
 description: Bill, what are going to do tonight? Why Jeb, the same thing we do every night, Take over the world!
 tags: parts,invoice,catalog,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-<!-- PartsCatalog.md v1.1.4.0
-MOD-NAME (ABBV)
-created: 
-updated: 
+<!-- PartsCatalog.md v1.0.4.0
+SpaceY Lifters (SYL)
+created: 10 Dec 2022
+updated: 26 Jun 2022
 
 TEMPLATE: PartsCatalog.md v1.1.4.3
 created: 01 Feb 2022
 updated: 01 May 2023 -->
-
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-explosion fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #FF7E03" ></i>
 
 ## [SpaceY Lifters (SYL)][mod]
 
-This add-on adds ~78 large rocket parts
-
 [Home](./index.md)
 
 ### Parts Catalog
+
+This add-on adds ~78 large rocket parts
 
 <!-- no toc -->
 * Table of Contents
