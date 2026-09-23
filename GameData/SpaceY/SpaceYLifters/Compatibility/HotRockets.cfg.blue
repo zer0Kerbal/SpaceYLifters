@@ -4,7 +4,7 @@
 // updated: 09 May 2023
 
 // This file: CC BY-NC-SA 4.0 by zer0Kerbal
-@PART[syl-eng-500-R7]:NEEDS[HotRockets]:FOR[SpaceYLifters]
+@PART[syl-eng-500-R7]:NEEDS[HotRockets]
 {
 	//!MODEL_MULTI_PARTICLE
 	@EFFECTS
@@ -121,7 +121,7 @@
 		}
 }
 
-@PART[syl-eng-500-R5]:NEEDS[HotRockets]:FOR[SpaceYLifters]
+@PART[syl-eng-500-R5]:NEEDS[HotRockets]
 {
 	//!MODEL_MULTI_PARTICLE
 	@EFFECTS
@@ -344,7 +344,7 @@
 }
 
 
-@PART[syl-eng-250-R1]:NEEDS[HotRockets]:FOR[SpaceYLifters]
+@PART[syl-eng-250-R1]:NEEDS[HotRockets]
 {
 	//!MODEL_MULTI_PARTICLE
 	@EFFECTS
@@ -472,7 +472,7 @@ MODEL_MULTI_PARTICLE_PERSIST
 }
 
 
-@PART[syl-eng-500-M9]:NEEDS[HotRockets]:FOR[SpaceYLifters]
+@PART[syl-eng-500-M9]:NEEDS[HotRockets]
 {
 	//!MODEL_MULTI_PARTICLE
 	@EFFECTS
@@ -710,7 +710,7 @@ MODEL_MULTI_PARTICLE_PERSIST
 	@MODULE[ModuleEngineConfigs] { %type = ModuleEnginesFX }
 }
 
-@PART[syl-eng-500-M5]:NEEDS[HotRockets]:FOR[SpaceYLifters]
+@PART[syl-eng-500-M5]:NEEDS[HotRockets]
 {
 	//!MODEL_MULTI_PARTICLE
 	@EFFECTS
@@ -950,7 +950,7 @@ MODEL_MULTI_PARTICLE_PERSIST
 
 
 
-@PART[syl-eng-250-M1]:NEEDS[HotRockets]:FOR[SpaceYLifters]
+@PART[syl-eng-250-M1]:NEEDS[HotRockets]
 {
 	//!MODEL_MULTI_PARTICLE
 	@EFFECTS
@@ -1074,7 +1074,7 @@ MODEL_MULTI_PARTICLE_PERSIST
 	@MODULE[ModuleEngineConfigs] { %type = ModuleEnginesFX }
 }
 
-@PART[syl-eng-125-K1]:NEEDS[HotRockets]:FOR[SpaceYLifters]
+@PART[syl-eng-125-K1]:NEEDS[HotRockets]
 {
 	!fx_exhaustFlame_blue
 	!fx_exhaustLight_blue

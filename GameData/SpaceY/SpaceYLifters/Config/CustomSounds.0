@@ -4,7 +4,7 @@
 // updated: 09 May 2023
 
 // This file: CC BY-NC-SA 4.0 by zer0Kerbal
-@PART[syl-eng-250-M1]:NEEDS[SpaceY/SpaceYLifters]:FOR[SpaceYLifters]
+@PART[syl-eng-250-M1]
 {
 	@EFFECTS
 	{
@@ -18,7 +18,7 @@
 	}
 }
 
-@PART[syl-eng-250-R1]:NEEDS[SpaceY/SpaceYLifters]:FOR[SpaceYLifters]
+@PART[syl-eng-250-R1]
 {
 	@EFFECTS
 	{
@@ -39,7 +39,7 @@
 	}
 }
 
-@PART[syl-eng-500-M5]:NEEDS[SpaceY/SpaceYLifters]:FOR[SpaceYLifters]
+@PART[syl-eng-500-M5]
 {
 	@EFFECTS
 	{
@@ -66,7 +66,7 @@
 		}
 	}
 }
-@PART[syl-eng-500-M9]:NEEDS[SpaceY/SpaceYLifters]:FOR[SpaceYLifters]
+@PART[syl-eng-500-M9]
 {
 	@EFFECTS
 	{
@@ -87,7 +87,7 @@
 	}
 }
 
-@PART[syl-eng-500-R5]:NEEDS[SpaceY/SpaceYLifters]:FOR[SpaceYLifters]
+@PART[syl-eng-500-R5]
 {
 	@EFFECTS
 	{
@@ -115,7 +115,7 @@
 	}
 }
 
-@PART[syl-eng-500-R7]:NEEDS[SpaceY/SpaceYLifters]:FOR[SpaceYLifters]
+@PART[syl-eng-500-R7]
 {
 	@EFFECTS
 	{
@@ -136,7 +136,7 @@
 	}
 }
 
-@PART[syl-srb-375-*]:NEEDS[SpaceY/SpaceYLifters]:FOR[SpaceYLifters]
+@PART[syl-srb-375-*]
 {
 	@EFFECTS
 	{
@@ -150,7 +150,7 @@
 	}
 }
 
-@PART[syl-srb-250-*]:NEEDS[SpaceY/SpaceYLifters]:FOR[SpaceYLifters]
+@PART[syl-srb-250-*]
 {
 	@EFFECTS
 	{
@@ -164,7 +164,7 @@
 	}
 }
 
-@PART[syl-srb-1875-*]:NEEDS[SpaceY/SpaceYLifters]:FOR[SpaceYLifters]
+@PART[syl-srb-1875-*]
 {
 	@EFFECTS
 	{

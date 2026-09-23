@@ -2,7 +2,7 @@
   
 | modName    | SpaceY Lifters (SYL) by NecroBones                                |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-NC-SA-4.0+ARR                                               |
+| license    | CC-BY-NC-SA-4.0                                                   |
 | author     | NecroBones(Orvidius) and zer0Kerbal                               |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209445-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SpaceYLifters)          |

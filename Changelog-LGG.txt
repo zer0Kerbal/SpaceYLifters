@@ -1,0 +1,67 @@
+ChangeLog
+
+
+
+2.0.0
+	Unofficial fork by Linuxgurugamer
+	Fixed scaling of the SpaceY A2-IX "Rosette" Interstage Thrust Plate
+		(reported by github user @zhangyuesai in parent repo Aug 7, 2024)
+	Fixed decoupler staging names
+	Update syl-docking3m.cfg
+	Missing parameter for node_attach
+		Based on bug report from @ashton-01 to the parent archive on Jul 10, 2024
+	
+	Merged pull request #1 from zhangyuesai/master
+		Adds Chinese localization
+	Update ghostparts.cfg, Puts the mod name into the patch correctly
+	Deleted bad oldName line in  SpaceY/SpaceYLifters/Parts/ThrustPlates/syl-plate-125-0625-X1.cfg
+
+2.0.0.2
+	Thanks to github user @aitorprado for these:
+		Spanish translation
+		Fixed KGXSupport and KGXH2Ow tank types not found
+
+2.0.0.3
+	Updated mass, cost, liquid fuel, oxidizer values based on actual volume
+
+2.0.0.4
+	Adjusted the B9PartSwitch.cfg to have LFO has the first/default subtype, and moved structural to the end
+
+2.0.0.5
+	Updated CustomCategory.cfg with new part names
+	Removed the SpaceY.Lifters.dll as being unnecessary
+	Removed restricted files added by @zer0kerbal
+	Merged in SpaceYCorp files to eliminate the need to install an additional mod
+	Added support for PatchManager to enable the Ghostparts config to allow compatibility with old craft files
+
+2.0.1
+	Removed all unnecessary :FOR[SpaceYLifters] clauses
+	Thanks to @JadeOfMaar for these changes:
+	Localized all tag lines
+	Removed broken MM script:  SpaceYLifters.cfg
+	Thanks to @JadeofMaar for these:
+		Fixes to variant themes // Soft-deprecate redundant custom themes
+		Update mod (self) detection
+		Rebalanced engines.
+		Most of these lose mass, cost and thrust and still slight gain on TWR.
+		Dramatic change to the Kiwi engine.
+		Standardized Isp curves.
+		Fixed bulkhead profile mismatches.
+		Added CryoEngines config. Moa series engines become dedicated Methalox.
+		Fixes to variant themes // Soft-deprecate redundant custom themes
+		Update mod (self) detection 
+
+2.0.1.1
+	Fixed the stats of the Kiwi engine
+
+2.0.2
+	Added support for CryoEngines plumes
+	Added support for Waterfall
+
+2.0.3
+	Added missing squad textures 
+
+2.0.3.1
+	Put the sounds back which were being removed by the Waterfall patch
+	Adjusted some positions of the Waterfall effects
+

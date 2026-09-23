@@ -11,7 +11,7 @@ updated: 04 Jun 2023
 
 THIS FILE:
     CC BY-ND-4.0
-    by [zer0Kerbal](https://gitbug.com/zer0Kerbal)
+    by [zer0Kerbal](https://github.com/zer0Kerbal)
     inspired by: HebruSan (thank you)
 -->
 
